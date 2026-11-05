@@ -1,3 +1,4 @@
+import { comparar } from './nodo.js';
 
  // Recorre el árbol: izquierda, raíz y derecha.
 export function recorridoInorden(raiz) {
@@ -58,4 +59,28 @@ export function recorridoPostorden(raiz) {
 
     recorrer(raiz);
     return resultado;
+
+}
+
+// Comprueba que el árbol mantenga el orden de un BST.
+export function validar(raiz) {
+
+    function revisar(nodo, menor, mayor) {
+        if (nodo === null) return true;
+
+        // Verifica que la clave esté dentro de los límites.
+        if (menor !== null && comparar(nodo.clave, menor) <= 0) {
+            return false;
+        }
+
+        if (mayor !== null && comparar(nodo.clave, mayor) >= 0) {
+            return false;
+        }
+
+        // Revisa los subárboles izquierdo y derecho.
+        return revisar(nodo.izq, menor, nodo.clave) &&
+            revisar(nodo.der, nodo.clave, mayor);
+    }
+
+    return revisar(raiz, null, null);
 }
