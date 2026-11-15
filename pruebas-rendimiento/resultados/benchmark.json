@@ -1,7 +1,7 @@
 {
   "node": "v24.21.0",
   "plataforma": "win32",
-  "repeticiones": 5,
+  "repeticiones": 30,
   "tamanios": [
     1000,
     10000,
@@ -20,71 +20,75 @@
     {
       "campo": "producto",
       "orden": "asc"
+    },
+    {
+      "campo": "id",
+      "orden": "asc"
     }
   ],
   "filas": [
     {
       "algoritmo": "MergeSort",
       "n": 1000,
-      "ms": 2.6073,
-      "deltaMB": 0.854583740234375,
-      "finalMB": 5.535026550292969,
+      "ms": 0.7957,
+      "deltaMB": 0.8892288208007812,
+      "finalMB": 5.6228790283203125,
       "ok": true
     },
     {
       "algoritmo": "QuickSort",
       "n": 1000,
-      "ms": 2.0738,
-      "deltaMB": 0.34987640380859375,
-      "finalMB": 5.026496887207031,
+      "ms": 0.8429,
+      "deltaMB": 0.49454498291015625,
+      "finalMB": 5.224006652832031,
       "ok": true
     },
     {
       "algoritmo": "MergeSort",
       "n": 10000,
-      "ms": 28.7333,
-      "deltaMB": 3.3990325927734375,
-      "finalMB": 8.9927978515625,
+      "ms": 11.2522,
+      "deltaMB": 3.7218246459960938,
+      "finalMB": 9.372634887695312,
       "ok": true
     },
     {
       "algoritmo": "QuickSort",
       "n": 10000,
-      "ms": 16.758,
-      "deltaMB": 3.6111526489257812,
-      "finalMB": 9.2080078125,
+      "ms": 13.1469,
+      "deltaMB": 6.755516052246094,
+      "finalMB": 12.407890319824219,
       "ok": true
     },
     {
       "algoritmo": "MergeSort",
       "n": 100000,
-      "ms": 373.8106,
-      "deltaMB": 12.396553039550781,
-      "finalMB": 27.032211303710938,
+      "ms": 166.5452,
+      "deltaMB": 13.035713195800781,
+      "finalMB": 27.837478637695312,
       "ok": true
     },
     {
       "algoritmo": "QuickSort",
       "n": 100000,
-      "ms": 202.3466,
-      "deltaMB": 4.626686096191406,
-      "finalMB": 19.152175903320312,
+      "ms": 222.6018,
+      "deltaMB": 18.79277801513672,
+      "finalMB": 33.48377990722656,
       "ok": true
     },
     {
       "algoritmo": "MergeSort",
       "n": 500000,
-      "ms": 2337.1462,
-      "deltaMB": 53.4376220703125,
-      "finalMB": 108.2759017944336,
+      "ms": 1044.178,
+      "deltaMB": 61.23793029785156,
+      "finalMB": 116.7142562866211,
       "ok": true
     },
     {
       "algoritmo": "QuickSort",
       "n": 500000,
-      "ms": 1223.9694,
-      "deltaMB": 54.05751037597656,
-      "finalMB": 108.31631469726562,
+      "ms": 1495.0757,
+      "deltaMB": 17.330093383789062,
+      "finalMB": 72.22595977783203,
       "ok": true
     }
   ]
