@@ -30,7 +30,7 @@ import {
 
 // Configuración del benchmark.
 const TAMANIOS = [1000, 10000, 100000, 500000];
-const REPS = 5;
+const REPS = 30;
 
 const cmp = crearComparador(CRITERIOS_POR_DEFECTO);
 
