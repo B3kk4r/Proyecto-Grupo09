@@ -1,0 +1,91 @@
+{
+  "node": "v24.21.0",
+  "plataforma": "win32",
+  "repeticiones": 5,
+  "tamanios": [
+    1000,
+    10000,
+    100000,
+    500000
+  ],
+  "criterios": [
+    {
+      "campo": "categoria",
+      "orden": "asc"
+    },
+    {
+      "campo": "precio",
+      "orden": "desc"
+    },
+    {
+      "campo": "producto",
+      "orden": "asc"
+    }
+  ],
+  "filas": [
+    {
+      "algoritmo": "MergeSort",
+      "n": 1000,
+      "ms": 2.6073,
+      "deltaMB": 0.854583740234375,
+      "finalMB": 5.535026550292969,
+      "ok": true
+    },
+    {
+      "algoritmo": "QuickSort",
+      "n": 1000,
+      "ms": 2.0738,
+      "deltaMB": 0.34987640380859375,
+      "finalMB": 5.026496887207031,
+      "ok": true
+    },
+    {
+      "algoritmo": "MergeSort",
+      "n": 10000,
+      "ms": 28.7333,
+      "deltaMB": 3.3990325927734375,
+      "finalMB": 8.9927978515625,
+      "ok": true
+    },
+    {
+      "algoritmo": "QuickSort",
+      "n": 10000,
+      "ms": 16.758,
+      "deltaMB": 3.6111526489257812,
+      "finalMB": 9.2080078125,
+      "ok": true
+    },
+    {
+      "algoritmo": "MergeSort",
+      "n": 100000,
+      "ms": 373.8106,
+      "deltaMB": 12.396553039550781,
+      "finalMB": 27.032211303710938,
+      "ok": true
+    },
+    {
+      "algoritmo": "QuickSort",
+      "n": 100000,
+      "ms": 202.3466,
+      "deltaMB": 4.626686096191406,
+      "finalMB": 19.152175903320312,
+      "ok": true
+    },
+    {
+      "algoritmo": "MergeSort",
+      "n": 500000,
+      "ms": 2337.1462,
+      "deltaMB": 53.4376220703125,
+      "finalMB": 108.2759017944336,
+      "ok": true
+    },
+    {
+      "algoritmo": "QuickSort",
+      "n": 500000,
+      "ms": 1223.9694,
+      "deltaMB": 54.05751037597656,
+      "finalMB": 108.31631469726562,
+      "ok": true
+    }
+  ]
+}
