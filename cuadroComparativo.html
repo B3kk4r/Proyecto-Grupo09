@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cuadro comparativo | Búsqueda secuencial y binaria</title>
+<style>
+:root{font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#e9efff;background:#0b1222}
+*{box-sizing:border-box}body{margin:0}main{max-width:1100px;margin:auto;padding:36px 18px}
+h1{font-size:clamp(1.55rem,4vw,2.4rem);margin:.4rem 0}h2{font-size:1.15rem;margin:0 0 14px}
+p{line-height:1.55;color:#bbcbe0}.eyebrow{font-weight:700;letter-spacing:.1em;color:#a8bfff;font-size:.75rem;text-transform:uppercase}
+.panel{background:#131f35;border:1px solid #31415b;border-radius:16px;padding:20px;margin:20px 0}
+.controls{display:flex;flex-wrap:wrap;align-items:center;gap:12px}.control{display:flex;flex-direction:column;gap:6px;font-size:.85rem}
+input,select{background:#0b1222;color:#fff;border:1px solid #667c9e;border-radius:8px;padding:10px;max-width:100%}
+.small{font-size:.83rem}#estado{margin:12px 0;color:#ffe19d}table{width:100%;border-collapse:collapse;font-size:.89rem}
+th,td{border-bottom:1px solid #35445a;padding:10px 8px;text-align:left}th{color:#9fb7d4}td.num{text-align:right;font-variant-numeric:tabular-nums}.scroll{overflow-x:auto}
+.charts{display:grid;grid-template-columns:1fr;gap:16px}.chart{border:1px solid #344962;border-radius:12px;padding:16px}
+.bars{display:flex;flex-direction:column;gap:12px}.baritem{display:grid;grid-template-columns:minmax(180px,230px) 1fr 100px;align-items:center;gap:12px;font-size:.82rem}
+.track{height:18px;background:#253750;border-radius:5px;overflow:hidden}.fill{height:100%;min-width:2px;border-radius:5px}.legend{display:flex;gap:14px;flex-wrap:wrap;margin:8px 0}
+.legend span{display:inline-flex;align-items:center;gap:6px;font-size:.85rem;color:#d5e2f2}.dot{width:10px;height:10px;border-radius:2px;display:inline-block}
+@media(max-width:690px){.baritem{grid-template-columns:1fr 80px;gap:5px}.baritem .track{grid-column:1 / -1;grid-row:2}}
+</style>
+</head>
+<body><main>
+<div class="eyebrow">Estructuras de Datos · Grupo 09 · AA · Noelia</div>
+<h1>Cuadro comparativo de métodos de búsqueda</h1>
+<p>Comparación de <strong>búsqueda secuencial y binaria</strong> en <strong>arreglos y archivos</strong>, para 1.000, 50.000 y 500.000 registros. Los tiempos corresponden a mediciones reales realizadas con <code>performance.now()</code>.</p>
+<section class="panel">
+<div class="controls"><label class="control">Cargar resultados JSON <input type="file" id="archivo" accept=".json,application/json"></label>
+<label class="control">Escenario <select id="escenario"><option>Encontrado</option><option>No encontrado</option></select></label>
+<label class="control">Tamaño del conjunto <select id="tamano"><option value="1000">1.000</option><option value="50000">50.000</option><option value="500000">500.000</option></select></label></div>
+<p id="estado">Selecciona el archivo <strong>resultados-busqueda.json</strong> generado por el benchmark. Si abres esta página con un servidor local, intentará cargarlo automáticamente.</p>
+<div id="detalles" class="small"></div>
+</section>
+<section class="panel"><h2>Gráfico 1 · Tiempo promedio por búsqueda (ms)</h2><div id="graficoTiempo" class="bars"></div><p class="small">Cada barra representa el tiempo promedio de las consultas del escenario y tamaño elegidos.</p></section>
+<section class="panel"><h2>Gráfico 2 · Comparaciones promedio</h2><div id="graficoComparaciones" class="bars"></div><p class="small">Una comparación equivale a examinar el ID de un registro.</p></section>
+<section class="panel"><h2>Resultados detallados</h2><div class="scroll"><table><thead><tr><th>Método</th><th>Medio</th><th>Consultas</th><th>Tiempo promedio (ms)</th><th>Comparaciones promedio</th><th>Comparaciones máximas</th></tr></thead><tbody id="filas"></tbody></table></div></section>
+<p class="small">Metodología: mismo conjunto de IDs por tamaño; se excluye del tiempo medido la preparación de datos y la creación del índice. El caso “No encontrado” usa un ID ausente y corresponde a una medición por método y tamaño.</p>
+</main>
+<script>
+'use strict';
+let informe = null;
+const $ = id => document.getElementById(id);
+const colores = {'Secuencial-Arreglo':'#7a9cff','Binaria-Arreglo':'#79e2bd','Secuencial-Archivo':'#ffb66c','Binaria-Archivo':'#d8a7ff'};
+const numero = (x, dec=4) => Number(x).toLocaleString('es-EC',{minimumFractionDigits:dec,maximumFractionDigits:dec});
+function crearGrafico(id, filas, clave, decimales) {
+  const cont = $(id); cont.replaceChildren();
+  if(!filas.length){cont.textContent='Sin datos para esta selección.';return;}
+  const maximo = Math.max(0,...filas.map(x=>Number(x[clave])));
+  for(const item of filas){
+    const fila = document.createElement('div');fila.className='baritem';
+    const etiqueta = document.createElement('span'); etiqueta.textContent=`${item.metodo} · ${item.medio}`;
+    const pista = document.createElement('div');pista.className='track';
+    const barra = document.createElement('div');barra.className='fill';
+    barra.style.background = colores[`${item.metodo}-${item.medio}`] || '#81addf';
+    barra.style.width = `${maximo ? item[clave]*100/maximo : 0}%`;
+    pista.append(barra);
+    const valor = document.createElement('span');valor.style.textAlign='right';valor.textContent=numero(item[clave],decimales);
+    fila.append(etiqueta,pista,valor);cont.append(fila);
+  }
+}
+function render(){
+  if(!informe)return;
+  const escenario=$('escenario').value, n=Number($('tamano').value);
+  const filas=informe.resultados.filter(r=>r.escenario===escenario&&r.tamano===n);
+  crearGrafico('graficoTiempo',filas,'tiempoPromedioMs',6);
+  crearGrafico('graficoComparaciones',filas,'comparacionesPromedio',2);
+  const cuerpo=$('filas');cuerpo.replaceChildren();
+  for(const r of filas){
+    const tr=document.createElement('tr');
+    for(const [clave,dec] of [['metodo',null],['medio',null],['consultas',0],['tiempoPromedioMs',6],['comparacionesPromedio',2],['comparacionesMaximas',0]]){
+      const td=document.createElement('td');td.textContent=dec===null?r[clave]:numero(r[clave],dec);
+      if(dec!==null)td.className='num';tr.append(td);
+    }
+    cuerpo.append(tr);
+  }
+  
+$('detalles').textContent = `Modo: ${informe.modo} · ${informe.consultasPorTamano} búsquedas exitosas por método, excepto secuencial en archivo (${Math.min(informe.consultasPorTamano, 30)} búsquedas) · Peor caso: 1 búsqueda con ID inexistente por método y tamaño · Generado: ${new Date(informe.generadoEn).toLocaleString('es-EC')}`;
+
+}
+function cargar(txt){
+  const data=JSON.parse(txt);
+  if(!Array.isArray(data.resultados))throw new Error('El JSON no tiene un arreglo "resultados" válido.');
+  informe=data;
+  $('estado').textContent=`Datos cargados correctamente (${data.resultados.length} filas de resultados).`;
+  render();
+}
+$('archivo').addEventListener('change', async e=>{
+  const archivo=e.target.files[0];if(!archivo)return;
+  try{cargar(await archivo.text())}catch(err){$('estado').textContent=`Error: ${err.message}`}
+});
+$('escenario').addEventListener('change',render);
+$('tamano').addEventListener('change',render);
+fetch('./resultados-busqueda.json').then(r=>{if(!r.ok)throw new Error('no disponible');return r.text()}).then(cargar).catch(()=>{});
+</script></body></html>
