@@ -10,7 +10,7 @@ import { mkdtempSync, writeFileSync, appendFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { generarDataset } from './AA1_U2/src/generarDataset.js';
+import { generarDataset } from '../AA1_U2/src/generarDataset.js';
 import { buscarSecuencialArreglo, buscarSecuencialArchivo } from './busquedaSecuencial.js';
 import { buscarBinarioArreglo, buscarBinarioArchivo } from './busquedaBinaria.js';
 import { abrirArchivo } from './archivoIndexado.js';

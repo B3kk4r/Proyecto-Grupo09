@@ -2,7 +2,7 @@
 import { mkdirSync, writeFileSync, appendFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { generarDataset } from './AA1_U2/src/generarDataset.js';
+import { generarDataset } from '../AA1_U2/src/generarDataset.js';
 
 // Configuracion de los datos de prueba.
 const CANTIDADES = [1000, 50000, 500000];
