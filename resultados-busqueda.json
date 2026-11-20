@@ -1,0 +1,284 @@
+{
+  "titulo": "Cuadro comparativo: busqueda secuencial vs. binaria",
+  "generadoEn": "2026-11-20T03:07:19.423Z",
+  "modo": "completo",
+  "consultasPorTamano": 1000,
+  "semilla": 2026,
+  "tamanos": [
+    1000,
+    50000,
+    500000
+  ],
+  "notas": [
+    "Los cuatro metodos utilizan los mismos IDs existentes por tamano.",
+    "El escenario No encontrado emplea un ID fuera del conjunto y una busqueda por metodo y tamano.",
+    "El tiempo no incluye generar datos, escribir el JSONL ni construir el indice.",
+    "Las comparaciones corresponden a la cantidad de registros examinados."
+  ],
+  "resultados": [
+    {
+      "tamano": 1000,
+      "metodo": "Secuencial",
+      "medio": "Arreglo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 7.8292,
+      "tiempoPromedioMs": 0.007829,
+      "comparacionesPromedio": 500.5,
+      "comparacionesMaximas": 1000
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Secuencial",
+      "medio": "Arreglo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.0898,
+      "tiempoPromedioMs": 0.0898,
+      "comparacionesPromedio": 1000,
+      "comparacionesMaximas": 1000
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Binaria",
+      "medio": "Arreglo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 2.9048,
+      "tiempoPromedioMs": 0.002905,
+      "comparacionesPromedio": 8.987,
+      "comparacionesMaximas": 10
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Binaria",
+      "medio": "Arreglo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.0457,
+      "tiempoPromedioMs": 0.0457,
+      "comparacionesPromedio": 10,
+      "comparacionesMaximas": 10
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Secuencial",
+      "medio": "Archivo",
+      "escenario": "Encontrado",
+      "consultas": 30,
+      "tiempoTotalMs": 60.3176,
+      "tiempoPromedioMs": 2.010587,
+      "comparacionesPromedio": 290.5,
+      "comparacionesMaximas": 334
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Secuencial",
+      "medio": "Archivo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 3.8302,
+      "tiempoPromedioMs": 3.8302,
+      "comparacionesPromedio": 1000,
+      "comparacionesMaximas": 1000
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Binaria",
+      "medio": "Archivo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 94.7478,
+      "tiempoPromedioMs": 0.094748,
+      "comparacionesPromedio": 8.987,
+      "comparacionesMaximas": 10
+    },
+    {
+      "tamano": 1000,
+      "metodo": "Binaria",
+      "medio": "Archivo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.3424,
+      "tiempoPromedioMs": 0.3424,
+      "comparacionesPromedio": 10,
+      "comparacionesMaximas": 10
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Secuencial",
+      "medio": "Arreglo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 60.7052,
+      "tiempoPromedioMs": 0.060705,
+      "comparacionesPromedio": 25018.5,
+      "comparacionesMaximas": 49965
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Secuencial",
+      "medio": "Arreglo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.1841,
+      "tiempoPromedioMs": 0.1841,
+      "comparacionesPromedio": 50000,
+      "comparacionesMaximas": 50000
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Binaria",
+      "medio": "Arreglo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 1.5155,
+      "tiempoPromedioMs": 0.001516,
+      "comparacionesPromedio": 14.677,
+      "comparacionesMaximas": 16
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Binaria",
+      "medio": "Arreglo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.0039,
+      "tiempoPromedioMs": 0.0039,
+      "comparacionesPromedio": 16,
+      "comparacionesMaximas": 16
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Secuencial",
+      "medio": "Archivo",
+      "escenario": "Encontrado",
+      "consultas": 30,
+      "tiempoTotalMs": 1955.8882,
+      "tiempoPromedioMs": 65.196273,
+      "comparacionesPromedio": 31123.5,
+      "comparacionesMaximas": 45580
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Secuencial",
+      "medio": "Archivo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 104.785,
+      "tiempoPromedioMs": 104.785,
+      "comparacionesPromedio": 50000,
+      "comparacionesMaximas": 50000
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Binaria",
+      "medio": "Archivo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 168.8993,
+      "tiempoPromedioMs": 0.168899,
+      "comparacionesPromedio": 14.677,
+      "comparacionesMaximas": 16
+    },
+    {
+      "tamano": 50000,
+      "metodo": "Binaria",
+      "medio": "Archivo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.2356,
+      "tiempoPromedioMs": 0.2356,
+      "comparacionesPromedio": 16,
+      "comparacionesMaximas": 16
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Secuencial",
+      "medio": "Arreglo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 1186.4493,
+      "tiempoPromedioMs": 1.186449,
+      "comparacionesPromedio": 250168.5,
+      "comparacionesMaximas": 499665
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Secuencial",
+      "medio": "Arreglo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 2.3373,
+      "tiempoPromedioMs": 2.3373,
+      "comparacionesPromedio": 500000,
+      "comparacionesMaximas": 500000
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Binaria",
+      "medio": "Arreglo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 2.3288,
+      "tiempoPromedioMs": 0.002329,
+      "comparacionesPromedio": 17.943,
+      "comparacionesMaximas": 19
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Binaria",
+      "medio": "Arreglo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.0041,
+      "tiempoPromedioMs": 0.0041,
+      "comparacionesPromedio": 19,
+      "comparacionesMaximas": 19
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Secuencial",
+      "medio": "Archivo",
+      "escenario": "Encontrado",
+      "consultas": 30,
+      "tiempoTotalMs": 10330.0059,
+      "tiempoPromedioMs": 344.33353,
+      "comparacionesPromedio": 181123.5,
+      "comparacionesMaximas": 195580
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Secuencial",
+      "medio": "Archivo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 1054.8227,
+      "tiempoPromedioMs": 1054.8227,
+      "comparacionesPromedio": 500000,
+      "comparacionesMaximas": 500000
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Binaria",
+      "medio": "Archivo",
+      "escenario": "Encontrado",
+      "consultas": 1000,
+      "tiempoTotalMs": 174.4827,
+      "tiempoPromedioMs": 0.174483,
+      "comparacionesPromedio": 17.943,
+      "comparacionesMaximas": 19
+    },
+    {
+      "tamano": 500000,
+      "metodo": "Binaria",
+      "medio": "Archivo",
+      "escenario": "No encontrado",
+      "consultas": 1,
+      "tiempoTotalMs": 0.3079,
+      "tiempoPromedioMs": 0.3079,
+      "comparacionesPromedio": 19,
+      "comparacionesMaximas": 19
+    }
+  ]
+}
