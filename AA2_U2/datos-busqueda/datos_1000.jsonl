@@ -1,0 +1,1000 @@
+{"id":1,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.5,"cantidad":20,"tienda":"Gran Akí"}
+{"id":2,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.5,"cantidad":15,"tienda":"Zerimar"}
+{"id":3,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.2,"cantidad":30,"tienda":"Gran Akí"}
+{"id":4,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.8,"cantidad":24,"tienda":"Gran Akí"}
+{"id":5,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.75,"cantidad":40,"tienda":"Supermaxi"}
+{"id":6,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.85,"cantidad":18,"tienda":"Supermaxi"}
+{"id":7,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1,"cantidad":12,"tienda":"Supermaxi"}
+{"id":8,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.5,"cantidad":35,"tienda":"Zerimar"}
+{"id":9,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.4,"cantidad":28,"tienda":"Supermaxi"}
+{"id":10,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.25,"cantidad":10,"tienda":"Supermaxi"}
+{"id":11,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.29,"cantidad":16,"tienda":"Gran Akí"}
+{"id":12,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.04,"cantidad":12,"tienda":"Supermaxi"}
+{"id":13,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.08,"cantidad":10,"tienda":"Supermaxi"}
+{"id":14,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.08,"cantidad":9,"tienda":"Supermaxi"}
+{"id":15,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.4,"cantidad":36,"tienda":"Zerimar"}
+{"id":16,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.61,"cantidad":24,"tienda":"Supermaxi"}
+{"id":17,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.67,"cantidad":26,"tienda":"Gran Akí"}
+{"id":18,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.31,"cantidad":28,"tienda":"Supermaxi"}
+{"id":19,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.35,"cantidad":25,"tienda":"Supermaxi"}
+{"id":20,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.37,"cantidad":39,"tienda":"Zerimar"}
+{"id":21,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.31,"cantidad":23,"tienda":"Supermaxi"}
+{"id":22,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.09,"cantidad":8,"tienda":"Supermaxi"}
+{"id":23,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.52,"cantidad":18,"tienda":"Gran Akí"}
+{"id":24,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.63,"cantidad":40,"tienda":"Supermaxi"}
+{"id":25,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.76,"cantidad":25,"tienda":"Gran Akí"}
+{"id":26,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.74,"cantidad":25,"tienda":"Gran Akí"}
+{"id":27,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.68,"cantidad":39,"tienda":"Zerimar"}
+{"id":28,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.19,"cantidad":12,"tienda":"Zerimar"}
+{"id":29,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.57,"cantidad":17,"tienda":"Zerimar"}
+{"id":30,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.38,"cantidad":31,"tienda":"Gran Akí"}
+{"id":31,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.35,"cantidad":9,"tienda":"Supermaxi"}
+{"id":32,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.21,"cantidad":17,"tienda":"Zerimar"}
+{"id":33,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":16,"tienda":"Supermaxi"}
+{"id":34,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.69,"cantidad":14,"tienda":"Zerimar"}
+{"id":35,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.31,"cantidad":16,"tienda":"Zerimar"}
+{"id":36,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.42,"cantidad":33,"tienda":"Supermaxi"}
+{"id":37,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.22,"cantidad":11,"tienda":"Supermaxi"}
+{"id":38,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.8,"cantidad":19,"tienda":"Supermaxi"}
+{"id":39,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":14,"tienda":"Supermaxi"}
+{"id":40,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.43,"cantidad":16,"tienda":"Gran Akí"}
+{"id":41,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.6,"cantidad":24,"tienda":"Gran Akí"}
+{"id":42,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.27,"cantidad":31,"tienda":"Gran Akí"}
+{"id":43,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.24,"cantidad":31,"tienda":"Gran Akí"}
+{"id":44,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":20,"tienda":"Supermaxi"}
+{"id":45,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.57,"cantidad":40,"tienda":"Zerimar"}
+{"id":46,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":2.01,"cantidad":41,"tienda":"Supermaxi"}
+{"id":47,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.05,"cantidad":11,"tienda":"Supermaxi"}
+{"id":48,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.99,"cantidad":11,"tienda":"Supermaxi"}
+{"id":49,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.4,"cantidad":12,"tienda":"Supermaxi"}
+{"id":50,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.42,"cantidad":37,"tienda":"Zerimar"}
+{"id":51,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.63,"cantidad":34,"tienda":"Zerimar"}
+{"id":52,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.28,"cantidad":9,"tienda":"Supermaxi"}
+{"id":53,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.97,"cantidad":17,"tienda":"Supermaxi"}
+{"id":54,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.88,"cantidad":34,"tienda":"Supermaxi"}
+{"id":55,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.44,"cantidad":19,"tienda":"Gran Akí"}
+{"id":56,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.33,"cantidad":9,"tienda":"Supermaxi"}
+{"id":57,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.51,"cantidad":44,"tienda":"Supermaxi"}
+{"id":58,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.88,"cantidad":36,"tienda":"Supermaxi"}
+{"id":59,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.13,"cantidad":11,"tienda":"Supermaxi"}
+{"id":60,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.95,"cantidad":10,"tienda":"Supermaxi"}
+{"id":61,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.64,"cantidad":29,"tienda":"Zerimar"}
+{"id":62,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.83,"cantidad":46,"tienda":"Supermaxi"}
+{"id":63,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.91,"cantidad":12,"tienda":"Supermaxi"}
+{"id":64,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.2,"cantidad":13,"tienda":"Zerimar"}
+{"id":65,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.56,"cantidad":18,"tienda":"Gran Akí"}
+{"id":66,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.72,"cantidad":13,"tienda":"Zerimar"}
+{"id":67,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.9,"cantidad":14,"tienda":"Supermaxi"}
+{"id":68,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.25,"cantidad":10,"tienda":"Supermaxi"}
+{"id":69,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.41,"cantidad":27,"tienda":"Supermaxi"}
+{"id":70,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.4,"cantidad":25,"tienda":"Supermaxi"}
+{"id":71,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.11,"cantidad":11,"tienda":"Supermaxi"}
+{"id":72,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.46,"cantidad":13,"tienda":"Zerimar"}
+{"id":73,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.3,"cantidad":34,"tienda":"Gran Akí"}
+{"id":74,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.41,"cantidad":36,"tienda":"Zerimar"}
+{"id":75,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.08,"cantidad":27,"tienda":"Gran Akí"}
+{"id":76,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.62,"cantidad":23,"tienda":"Gran Akí"}
+{"id":77,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.31,"cantidad":40,"tienda":"Zerimar"}
+{"id":78,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.81,"cantidad":32,"tienda":"Supermaxi"}
+{"id":79,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.3,"cantidad":9,"tienda":"Supermaxi"}
+{"id":80,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.26,"cantidad":26,"tienda":"Gran Akí"}
+{"id":81,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.17,"cantidad":17,"tienda":"Zerimar"}
+{"id":82,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.23,"cantidad":23,"tienda":"Supermaxi"}
+{"id":83,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.77,"cantidad":18,"tienda":"Supermaxi"}
+{"id":84,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.49,"cantidad":33,"tienda":"Supermaxi"}
+{"id":85,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.02,"cantidad":24,"tienda":"Gran Akí"}
+{"id":86,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.8,"cantidad":17,"tienda":"Supermaxi"}
+{"id":87,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.22,"cantidad":18,"tienda":"Zerimar"}
+{"id":88,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.36,"cantidad":30,"tienda":"Gran Akí"}
+{"id":89,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.66,"cantidad":46,"tienda":"Supermaxi"}
+{"id":90,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.95,"cantidad":14,"tienda":"Supermaxi"}
+{"id":91,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.38,"cantidad":18,"tienda":"Gran Akí"}
+{"id":92,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.39,"cantidad":12,"tienda":"Supermaxi"}
+{"id":93,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.86,"cantidad":12,"tienda":"Supermaxi"}
+{"id":94,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.07,"cantidad":12,"tienda":"Supermaxi"}
+{"id":95,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.33,"cantidad":30,"tienda":"Zerimar"}
+{"id":96,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.54,"cantidad":29,"tienda":"Gran Akí"}
+{"id":97,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.35,"cantidad":9,"tienda":"Supermaxi"}
+{"id":98,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":18,"tienda":"Supermaxi"}
+{"id":99,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.19,"cantidad":30,"tienda":"Supermaxi"}
+{"id":100,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.71,"cantidad":16,"tienda":"Zerimar"}
+{"id":101,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.31,"cantidad":28,"tienda":"Gran Akí"}
+{"id":102,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.25,"cantidad":29,"tienda":"Gran Akí"}
+{"id":103,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.53,"cantidad":29,"tienda":"Supermaxi"}
+{"id":104,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.86,"cantidad":46,"tienda":"Supermaxi"}
+{"id":105,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.75,"cantidad":29,"tienda":"Gran Akí"}
+{"id":106,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":11,"tienda":"Supermaxi"}
+{"id":107,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.79,"cantidad":22,"tienda":"Gran Akí"}
+{"id":108,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.88,"cantidad":11,"tienda":"Supermaxi"}
+{"id":109,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.33,"cantidad":33,"tienda":"Supermaxi"}
+{"id":110,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.79,"cantidad":20,"tienda":"Supermaxi"}
+{"id":111,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":13,"tienda":"Supermaxi"}
+{"id":112,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.55,"cantidad":19,"tienda":"Gran Akí"}
+{"id":113,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.96,"cantidad":20,"tienda":"Gran Akí"}
+{"id":114,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.11,"cantidad":11,"tienda":"Supermaxi"}
+{"id":115,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.22,"cantidad":10,"tienda":"Supermaxi"}
+{"id":116,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.84,"cantidad":14,"tienda":"Zerimar"}
+{"id":117,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.23,"cantidad":30,"tienda":"Supermaxi"}
+{"id":118,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.2,"cantidad":33,"tienda":"Supermaxi"}
+{"id":119,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":28,"tienda":"Supermaxi"}
+{"id":120,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.56,"cantidad":27,"tienda":"Gran Akí"}
+{"id":121,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.53,"cantidad":22,"tienda":"Gran Akí"}
+{"id":122,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.39,"cantidad":13,"tienda":"Zerimar"}
+{"id":123,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.91,"cantidad":15,"tienda":"Supermaxi"}
+{"id":124,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.13,"cantidad":16,"tienda":"Zerimar"}
+{"id":125,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.87,"cantidad":15,"tienda":"Zerimar"}
+{"id":126,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.14,"cantidad":14,"tienda":"Supermaxi"}
+{"id":127,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.39,"cantidad":8,"tienda":"Supermaxi"}
+{"id":128,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.35,"cantidad":20,"tienda":"Gran Akí"}
+{"id":129,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.58,"cantidad":25,"tienda":"Gran Akí"}
+{"id":130,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.45,"cantidad":29,"tienda":"Zerimar"}
+{"id":131,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.81,"cantidad":29,"tienda":"Gran Akí"}
+{"id":132,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":18,"tienda":"Supermaxi"}
+{"id":133,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.96,"cantidad":11,"tienda":"Supermaxi"}
+{"id":134,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.08,"cantidad":25,"tienda":"Gran Akí"}
+{"id":135,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.07,"cantidad":31,"tienda":"Gran Akí"}
+{"id":136,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.93,"cantidad":16,"tienda":"Supermaxi"}
+{"id":137,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.6,"cantidad":28,"tienda":"Zerimar"}
+{"id":138,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.47,"cantidad":21,"tienda":"Gran Akí"}
+{"id":139,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.34,"cantidad":42,"tienda":"Zerimar"}
+{"id":140,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.94,"cantidad":15,"tienda":"Supermaxi"}
+{"id":141,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.7,"cantidad":32,"tienda":"Zerimar"}
+{"id":142,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.99,"cantidad":12,"tienda":"Supermaxi"}
+{"id":143,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.99,"cantidad":13,"tienda":"Supermaxi"}
+{"id":144,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.63,"cantidad":20,"tienda":"Gran Akí"}
+{"id":145,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.18,"cantidad":14,"tienda":"Zerimar"}
+{"id":146,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.36,"cantidad":32,"tienda":"Gran Akí"}
+{"id":147,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.63,"cantidad":19,"tienda":"Gran Akí"}
+{"id":148,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.54,"cantidad":22,"tienda":"Gran Akí"}
+{"id":149,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.41,"cantidad":34,"tienda":"Zerimar"}
+{"id":150,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.53,"cantidad":35,"tienda":"Supermaxi"}
+{"id":151,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.35,"cantidad":17,"tienda":"Zerimar"}
+{"id":152,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.98,"cantidad":34,"tienda":"Supermaxi"}
+{"id":153,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.3,"cantidad":24,"tienda":"Supermaxi"}
+{"id":154,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.52,"cantidad":29,"tienda":"Zerimar"}
+{"id":155,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.9,"cantidad":11,"tienda":"Supermaxi"}
+{"id":156,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.17,"cantidad":35,"tienda":"Gran Akí"}
+{"id":157,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.73,"cantidad":42,"tienda":"Supermaxi"}
+{"id":158,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.4,"cantidad":20,"tienda":"Gran Akí"}
+{"id":159,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.25,"cantidad":9,"tienda":"Supermaxi"}
+{"id":160,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.69,"cantidad":19,"tienda":"Gran Akí"}
+{"id":161,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.94,"cantidad":34,"tienda":"Supermaxi"}
+{"id":162,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.51,"cantidad":23,"tienda":"Gran Akí"}
+{"id":163,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.95,"cantidad":17,"tienda":"Supermaxi"}
+{"id":164,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.5,"cantidad":21,"tienda":"Gran Akí"}
+{"id":165,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.22,"cantidad":29,"tienda":"Supermaxi"}
+{"id":166,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.38,"cantidad":14,"tienda":"Zerimar"}
+{"id":167,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.27,"cantidad":27,"tienda":"Gran Akí"}
+{"id":168,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.14,"cantidad":11,"tienda":"Supermaxi"}
+{"id":169,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.56,"cantidad":32,"tienda":"Supermaxi"}
+{"id":170,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.57,"cantidad":26,"tienda":"Supermaxi"}
+{"id":171,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.28,"cantidad":9,"tienda":"Supermaxi"}
+{"id":172,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.45,"cantidad":28,"tienda":"Supermaxi"}
+{"id":173,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":20,"tienda":"Supermaxi"}
+{"id":174,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.21,"cantidad":15,"tienda":"Zerimar"}
+{"id":175,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.61,"cantidad":40,"tienda":"Zerimar"}
+{"id":176,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.75,"cantidad":14,"tienda":"Zerimar"}
+{"id":177,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.95,"cantidad":15,"tienda":"Supermaxi"}
+{"id":178,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.33,"cantidad":19,"tienda":"Gran Akí"}
+{"id":179,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.38,"cantidad":10,"tienda":"Supermaxi"}
+{"id":180,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.72,"cantidad":16,"tienda":"Zerimar"}
+{"id":181,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":15,"tienda":"Supermaxi"}
+{"id":182,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.67,"cantidad":23,"tienda":"Gran Akí"}
+{"id":183,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.94,"cantidad":17,"tienda":"Supermaxi"}
+{"id":184,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.6,"cantidad":33,"tienda":"Supermaxi"}
+{"id":185,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.93,"cantidad":24,"tienda":"Gran Akí"}
+{"id":186,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.25,"cantidad":30,"tienda":"Supermaxi"}
+{"id":187,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.09,"cantidad":33,"tienda":"Gran Akí"}
+{"id":188,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.26,"cantidad":13,"tienda":"Zerimar"}
+{"id":189,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.51,"cantidad":36,"tienda":"Zerimar"}
+{"id":190,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.05,"cantidad":24,"tienda":"Gran Akí"}
+{"id":191,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.25,"cantidad":8,"tienda":"Supermaxi"}
+{"id":192,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.74,"cantidad":14,"tienda":"Zerimar"}
+{"id":193,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.29,"cantidad":23,"tienda":"Supermaxi"}
+{"id":194,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.17,"cantidad":8,"tienda":"Supermaxi"}
+{"id":195,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.83,"cantidad":38,"tienda":"Supermaxi"}
+{"id":196,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.92,"cantidad":17,"tienda":"Supermaxi"}
+{"id":197,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.78,"cantidad":23,"tienda":"Gran Akí"}
+{"id":198,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.59,"cantidad":19,"tienda":"Gran Akí"}
+{"id":199,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":9,"tienda":"Supermaxi"}
+{"id":200,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.93,"cantidad":34,"tienda":"Supermaxi"}
+{"id":201,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.78,"cantidad":20,"tienda":"Gran Akí"}
+{"id":202,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.5,"cantidad":40,"tienda":"Zerimar"}
+{"id":203,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.53,"cantidad":44,"tienda":"Supermaxi"}
+{"id":204,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.21,"cantidad":11,"tienda":"Supermaxi"}
+{"id":205,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.07,"cantidad":25,"tienda":"Gran Akí"}
+{"id":206,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.81,"cantidad":17,"tienda":"Supermaxi"}
+{"id":207,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":18,"tienda":"Supermaxi"}
+{"id":208,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.1,"cantidad":12,"tienda":"Supermaxi"}
+{"id":209,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.76,"cantidad":21,"tienda":"Supermaxi"}
+{"id":210,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.66,"cantidad":21,"tienda":"Gran Akí"}
+{"id":211,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.51,"cantidad":14,"tienda":"Zerimar"}
+{"id":212,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.88,"cantidad":18,"tienda":"Supermaxi"}
+{"id":213,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.07,"cantidad":28,"tienda":"Gran Akí"}
+{"id":214,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":42,"tienda":"Supermaxi"}
+{"id":215,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.43,"cantidad":33,"tienda":"Supermaxi"}
+{"id":216,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.63,"cantidad":32,"tienda":"Supermaxi"}
+{"id":217,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.75,"cantidad":36,"tienda":"Supermaxi"}
+{"id":218,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.99,"cantidad":33,"tienda":"Supermaxi"}
+{"id":219,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.38,"cantidad":19,"tienda":"Gran Akí"}
+{"id":220,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":23,"tienda":"Supermaxi"}
+{"id":221,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.17,"cantidad":28,"tienda":"Gran Akí"}
+{"id":222,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.84,"cantidad":18,"tienda":"Supermaxi"}
+{"id":223,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.74,"cantidad":21,"tienda":"Supermaxi"}
+{"id":224,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.53,"cantidad":41,"tienda":"Zerimar"}
+{"id":225,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.4,"cantidad":12,"tienda":"Zerimar"}
+{"id":226,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.3,"cantidad":24,"tienda":"Gran Akí"}
+{"id":227,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":10,"tienda":"Supermaxi"}
+{"id":228,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.29,"cantidad":32,"tienda":"Zerimar"}
+{"id":229,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.7,"cantidad":15,"tienda":"Zerimar"}
+{"id":230,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.93,"cantidad":10,"tienda":"Supermaxi"}
+{"id":231,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.07,"cantidad":28,"tienda":"Gran Akí"}
+{"id":232,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.45,"cantidad":21,"tienda":"Gran Akí"}
+{"id":233,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.56,"cantidad":15,"tienda":"Zerimar"}
+{"id":234,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.24,"cantidad":11,"tienda":"Supermaxi"}
+{"id":235,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.66,"cantidad":18,"tienda":"Zerimar"}
+{"id":236,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.56,"cantidad":34,"tienda":"Zerimar"}
+{"id":237,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.62,"cantidad":32,"tienda":"Zerimar"}
+{"id":238,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.4,"cantidad":33,"tienda":"Supermaxi"}
+{"id":239,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":21,"tienda":"Supermaxi"}
+{"id":240,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.63,"cantidad":22,"tienda":"Gran Akí"}
+{"id":241,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.59,"cantidad":39,"tienda":"Zerimar"}
+{"id":242,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.12,"cantidad":14,"tienda":"Supermaxi"}
+{"id":243,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.19,"cantidad":23,"tienda":"Supermaxi"}
+{"id":244,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.72,"cantidad":30,"tienda":"Zerimar"}
+{"id":245,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.73,"cantidad":12,"tienda":"Zerimar"}
+{"id":246,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.68,"cantidad":32,"tienda":"Supermaxi"}
+{"id":247,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.94,"cantidad":21,"tienda":"Gran Akí"}
+{"id":248,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.43,"cantidad":26,"tienda":"Supermaxi"}
+{"id":249,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.11,"cantidad":9,"tienda":"Supermaxi"}
+{"id":250,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.37,"cantidad":23,"tienda":"Gran Akí"}
+{"id":251,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.79,"cantidad":25,"tienda":"Gran Akí"}
+{"id":252,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.72,"cantidad":18,"tienda":"Gran Akí"}
+{"id":253,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.24,"cantidad":33,"tienda":"Gran Akí"}
+{"id":254,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.58,"cantidad":16,"tienda":"Zerimar"}
+{"id":255,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.56,"cantidad":25,"tienda":"Supermaxi"}
+{"id":256,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.61,"cantidad":27,"tienda":"Supermaxi"}
+{"id":257,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.43,"cantidad":30,"tienda":"Zerimar"}
+{"id":258,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.11,"cantidad":9,"tienda":"Supermaxi"}
+{"id":259,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.93,"cantidad":44,"tienda":"Supermaxi"}
+{"id":260,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.82,"cantidad":15,"tienda":"Supermaxi"}
+{"id":261,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":15,"tienda":"Supermaxi"}
+{"id":262,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.42,"cantidad":19,"tienda":"Gran Akí"}
+{"id":263,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.96,"cantidad":28,"tienda":"Gran Akí"}
+{"id":264,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.13,"cantidad":10,"tienda":"Supermaxi"}
+{"id":265,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.87,"cantidad":43,"tienda":"Supermaxi"}
+{"id":266,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.46,"cantidad":27,"tienda":"Supermaxi"}
+{"id":267,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.46,"cantidad":30,"tienda":"Zerimar"}
+{"id":268,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.59,"cantidad":26,"tienda":"Gran Akí"}
+{"id":269,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.67,"cantidad":13,"tienda":"Zerimar"}
+{"id":270,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.32,"cantidad":17,"tienda":"Zerimar"}
+{"id":271,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.54,"cantidad":23,"tienda":"Gran Akí"}
+{"id":272,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.55,"cantidad":21,"tienda":"Gran Akí"}
+{"id":273,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.96,"cantidad":11,"tienda":"Supermaxi"}
+{"id":274,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.25,"cantidad":29,"tienda":"Gran Akí"}
+{"id":275,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.4,"cantidad":9,"tienda":"Supermaxi"}
+{"id":276,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":32,"tienda":"Supermaxi"}
+{"id":277,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.17,"cantidad":35,"tienda":"Gran Akí"}
+{"id":278,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.53,"cantidad":29,"tienda":"Supermaxi"}
+{"id":279,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.86,"cantidad":44,"tienda":"Supermaxi"}
+{"id":280,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.11,"cantidad":27,"tienda":"Gran Akí"}
+{"id":281,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.43,"cantidad":28,"tienda":"Supermaxi"}
+{"id":282,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":30,"tienda":"Supermaxi"}
+{"id":283,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.04,"cantidad":25,"tienda":"Gran Akí"}
+{"id":284,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.35,"cantidad":34,"tienda":"Zerimar"}
+{"id":285,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.34,"cantidad":8,"tienda":"Supermaxi"}
+{"id":286,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.44,"cantidad":31,"tienda":"Zerimar"}
+{"id":287,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.38,"cantidad":18,"tienda":"Gran Akí"}
+{"id":288,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.02,"cantidad":34,"tienda":"Gran Akí"}
+{"id":289,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.91,"cantidad":13,"tienda":"Supermaxi"}
+{"id":290,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.34,"cantidad":31,"tienda":"Gran Akí"}
+{"id":291,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.68,"cantidad":39,"tienda":"Zerimar"}
+{"id":292,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.13,"cantidad":12,"tienda":"Supermaxi"}
+{"id":293,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":11,"tienda":"Supermaxi"}
+{"id":294,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.52,"cantidad":15,"tienda":"Zerimar"}
+{"id":295,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.53,"cantidad":24,"tienda":"Supermaxi"}
+{"id":296,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.56,"cantidad":46,"tienda":"Supermaxi"}
+{"id":297,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.11,"cantidad":14,"tienda":"Supermaxi"}
+{"id":298,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.79,"cantidad":20,"tienda":"Supermaxi"}
+{"id":299,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.01,"cantidad":22,"tienda":"Gran Akí"}
+{"id":300,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.08,"cantidad":11,"tienda":"Supermaxi"}
+{"id":301,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":16,"tienda":"Supermaxi"}
+{"id":302,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.21,"cantidad":25,"tienda":"Gran Akí"}
+{"id":303,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.71,"cantidad":15,"tienda":"Zerimar"}
+{"id":304,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.9,"cantidad":18,"tienda":"Supermaxi"}
+{"id":305,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.99,"cantidad":34,"tienda":"Supermaxi"}
+{"id":306,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.34,"cantidad":41,"tienda":"Zerimar"}
+{"id":307,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.23,"cantidad":30,"tienda":"Supermaxi"}
+{"id":308,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.89,"cantidad":26,"tienda":"Gran Akí"}
+{"id":309,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.4,"cantidad":18,"tienda":"Gran Akí"}
+{"id":310,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.48,"cantidad":15,"tienda":"Zerimar"}
+{"id":311,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2,"cantidad":22,"tienda":"Gran Akí"}
+{"id":312,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.31,"cantidad":27,"tienda":"Supermaxi"}
+{"id":313,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.64,"cantidad":38,"tienda":"Supermaxi"}
+{"id":314,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2,"cantidad":23,"tienda":"Gran Akí"}
+{"id":315,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.68,"cantidad":22,"tienda":"Gran Akí"}
+{"id":316,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.96,"cantidad":41,"tienda":"Supermaxi"}
+{"id":317,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.49,"cantidad":29,"tienda":"Supermaxi"}
+{"id":318,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.57,"cantidad":21,"tienda":"Gran Akí"}
+{"id":319,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.28,"cantidad":21,"tienda":"Gran Akí"}
+{"id":320,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.92,"cantidad":37,"tienda":"Supermaxi"}
+{"id":321,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.7,"cantidad":33,"tienda":"Zerimar"}
+{"id":322,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.49,"cantidad":23,"tienda":"Supermaxi"}
+{"id":323,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.22,"cantidad":36,"tienda":"Gran Akí"}
+{"id":324,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.5,"cantidad":32,"tienda":"Zerimar"}
+{"id":325,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.25,"cantidad":29,"tienda":"Supermaxi"}
+{"id":326,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.97,"cantidad":18,"tienda":"Supermaxi"}
+{"id":327,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.66,"cantidad":26,"tienda":"Gran Akí"}
+{"id":328,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.75,"cantidad":15,"tienda":"Zerimar"}
+{"id":329,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":19,"tienda":"Supermaxi"}
+{"id":330,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.15,"cantidad":10,"tienda":"Supermaxi"}
+{"id":331,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.69,"cantidad":13,"tienda":"Zerimar"}
+{"id":332,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":2,"cantidad":37,"tienda":"Supermaxi"}
+{"id":333,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.59,"cantidad":29,"tienda":"Supermaxi"}
+{"id":334,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.24,"cantidad":8,"tienda":"Supermaxi"}
+{"id":335,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.31,"cantidad":15,"tienda":"Zerimar"}
+{"id":336,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":11,"tienda":"Supermaxi"}
+{"id":337,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.34,"cantidad":21,"tienda":"Gran Akí"}
+{"id":338,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.86,"cantidad":13,"tienda":"Supermaxi"}
+{"id":339,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.63,"cantidad":38,"tienda":"Zerimar"}
+{"id":340,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":10,"tienda":"Supermaxi"}
+{"id":341,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.8,"cantidad":15,"tienda":"Supermaxi"}
+{"id":342,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.56,"cantidad":24,"tienda":"Gran Akí"}
+{"id":343,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.28,"cantidad":32,"tienda":"Gran Akí"}
+{"id":344,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.43,"cantidad":23,"tienda":"Gran Akí"}
+{"id":345,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.6,"cantidad":38,"tienda":"Supermaxi"}
+{"id":346,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.2,"cantidad":12,"tienda":"Supermaxi"}
+{"id":347,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.27,"cantidad":31,"tienda":"Gran Akí"}
+{"id":348,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.27,"cantidad":15,"tienda":"Zerimar"}
+{"id":349,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.52,"cantidad":22,"tienda":"Gran Akí"}
+{"id":350,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.13,"cantidad":25,"tienda":"Gran Akí"}
+{"id":351,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.31,"cantidad":9,"tienda":"Supermaxi"}
+{"id":352,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":12,"tienda":"Supermaxi"}
+{"id":353,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":18,"tienda":"Supermaxi"}
+{"id":354,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.97,"cantidad":20,"tienda":"Supermaxi"}
+{"id":355,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.59,"cantidad":26,"tienda":"Supermaxi"}
+{"id":356,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.38,"cantidad":30,"tienda":"Gran Akí"}
+{"id":357,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.58,"cantidad":15,"tienda":"Zerimar"}
+{"id":358,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.85,"cantidad":21,"tienda":"Supermaxi"}
+{"id":359,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":18,"tienda":"Supermaxi"}
+{"id":360,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.5,"cantidad":16,"tienda":"Gran Akí"}
+{"id":361,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.42,"cantidad":23,"tienda":"Gran Akí"}
+{"id":362,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.31,"cantidad":27,"tienda":"Gran Akí"}
+{"id":363,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.74,"cantidad":21,"tienda":"Gran Akí"}
+{"id":364,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.12,"cantidad":14,"tienda":"Supermaxi"}
+{"id":365,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.75,"cantidad":18,"tienda":"Zerimar"}
+{"id":366,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.79,"cantidad":42,"tienda":"Supermaxi"}
+{"id":367,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.69,"cantidad":45,"tienda":"Supermaxi"}
+{"id":368,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.4,"cantidad":37,"tienda":"Zerimar"}
+{"id":369,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.88,"cantidad":23,"tienda":"Gran Akí"}
+{"id":370,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.14,"cantidad":11,"tienda":"Supermaxi"}
+{"id":371,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.82,"cantidad":25,"tienda":"Gran Akí"}
+{"id":372,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.09,"cantidad":24,"tienda":"Gran Akí"}
+{"id":373,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.07,"cantidad":34,"tienda":"Gran Akí"}
+{"id":374,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.73,"cantidad":19,"tienda":"Supermaxi"}
+{"id":375,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.64,"cantidad":21,"tienda":"Gran Akí"}
+{"id":376,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.87,"cantidad":34,"tienda":"Supermaxi"}
+{"id":377,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.05,"cantidad":14,"tienda":"Supermaxi"}
+{"id":378,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.82,"cantidad":45,"tienda":"Supermaxi"}
+{"id":379,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":2.01,"cantidad":35,"tienda":"Supermaxi"}
+{"id":380,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.2,"cantidad":28,"tienda":"Gran Akí"}
+{"id":381,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.27,"cantidad":11,"tienda":"Supermaxi"}
+{"id":382,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.66,"cantidad":22,"tienda":"Gran Akí"}
+{"id":383,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":36,"tienda":"Supermaxi"}
+{"id":384,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.62,"cantidad":30,"tienda":"Zerimar"}
+{"id":385,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.94,"cantidad":18,"tienda":"Supermaxi"}
+{"id":386,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.06,"cantidad":27,"tienda":"Gran Akí"}
+{"id":387,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":10,"tienda":"Supermaxi"}
+{"id":388,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.17,"cantidad":17,"tienda":"Zerimar"}
+{"id":389,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.67,"cantidad":16,"tienda":"Zerimar"}
+{"id":390,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.81,"cantidad":37,"tienda":"Supermaxi"}
+{"id":391,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.47,"cantidad":28,"tienda":"Supermaxi"}
+{"id":392,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.43,"cantidad":9,"tienda":"Supermaxi"}
+{"id":393,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.92,"cantidad":32,"tienda":"Supermaxi"}
+{"id":394,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.99,"cantidad":28,"tienda":"Gran Akí"}
+{"id":395,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.54,"cantidad":27,"tienda":"Gran Akí"}
+{"id":396,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.9,"cantidad":13,"tienda":"Supermaxi"}
+{"id":397,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.95,"cantidad":13,"tienda":"Supermaxi"}
+{"id":398,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.76,"cantidad":33,"tienda":"Supermaxi"}
+{"id":399,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.31,"cantidad":25,"tienda":"Gran Akí"}
+{"id":400,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.24,"cantidad":9,"tienda":"Supermaxi"}
+{"id":401,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.86,"cantidad":12,"tienda":"Supermaxi"}
+{"id":402,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.85,"cantidad":23,"tienda":"Gran Akí"}
+{"id":403,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.28,"cantidad":13,"tienda":"Zerimar"}
+{"id":404,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":26,"tienda":"Supermaxi"}
+{"id":405,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.28,"cantidad":12,"tienda":"Zerimar"}
+{"id":406,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":20,"tienda":"Supermaxi"}
+{"id":407,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.55,"cantidad":30,"tienda":"Supermaxi"}
+{"id":408,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.4,"cantidad":16,"tienda":"Zerimar"}
+{"id":409,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.18,"cantidad":29,"tienda":"Gran Akí"}
+{"id":410,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.79,"cantidad":22,"tienda":"Gran Akí"}
+{"id":411,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.62,"cantidad":32,"tienda":"Supermaxi"}
+{"id":412,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.88,"cantidad":15,"tienda":"Supermaxi"}
+{"id":413,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.26,"cantidad":22,"tienda":"Supermaxi"}
+{"id":414,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.38,"cantidad":9,"tienda":"Supermaxi"}
+{"id":415,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.12,"cantidad":30,"tienda":"Gran Akí"}
+{"id":416,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.32,"cantidad":31,"tienda":"Gran Akí"}
+{"id":417,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.64,"cantidad":36,"tienda":"Zerimar"}
+{"id":418,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.27,"cantidad":12,"tienda":"Supermaxi"}
+{"id":419,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.32,"cantidad":16,"tienda":"Gran Akí"}
+{"id":420,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.94,"cantidad":12,"tienda":"Supermaxi"}
+{"id":421,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.72,"cantidad":40,"tienda":"Zerimar"}
+{"id":422,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.6,"cantidad":19,"tienda":"Gran Akí"}
+{"id":423,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.97,"cantidad":13,"tienda":"Supermaxi"}
+{"id":424,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.64,"cantidad":23,"tienda":"Gran Akí"}
+{"id":425,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.29,"cantidad":34,"tienda":"Gran Akí"}
+{"id":426,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.62,"cantidad":35,"tienda":"Zerimar"}
+{"id":427,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.5,"cantidad":23,"tienda":"Supermaxi"}
+{"id":428,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.57,"cantidad":13,"tienda":"Zerimar"}
+{"id":429,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.95,"cantidad":20,"tienda":"Gran Akí"}
+{"id":430,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.41,"cantidad":31,"tienda":"Zerimar"}
+{"id":431,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.57,"cantidad":14,"tienda":"Zerimar"}
+{"id":432,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.43,"cantidad":11,"tienda":"Supermaxi"}
+{"id":433,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":2.01,"cantidad":35,"tienda":"Supermaxi"}
+{"id":434,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":10,"tienda":"Supermaxi"}
+{"id":435,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.28,"cantidad":18,"tienda":"Gran Akí"}
+{"id":436,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.3,"cantidad":16,"tienda":"Zerimar"}
+{"id":437,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.5,"cantidad":30,"tienda":"Zerimar"}
+{"id":438,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.58,"cantidad":21,"tienda":"Gran Akí"}
+{"id":439,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.2,"cantidad":34,"tienda":"Gran Akí"}
+{"id":440,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.37,"cantidad":10,"tienda":"Supermaxi"}
+{"id":441,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.11,"cantidad":14,"tienda":"Supermaxi"}
+{"id":442,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.81,"cantidad":16,"tienda":"Supermaxi"}
+{"id":443,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.57,"cantidad":18,"tienda":"Gran Akí"}
+{"id":444,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.88,"cantidad":46,"tienda":"Supermaxi"}
+{"id":445,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.05,"cantidad":33,"tienda":"Gran Akí"}
+{"id":446,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.3,"cantidad":10,"tienda":"Supermaxi"}
+{"id":447,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.3,"cantidad":23,"tienda":"Gran Akí"}
+{"id":448,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.84,"cantidad":15,"tienda":"Supermaxi"}
+{"id":449,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.23,"cantidad":17,"tienda":"Zerimar"}
+{"id":450,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.61,"cantidad":36,"tienda":"Zerimar"}
+{"id":451,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.71,"cantidad":16,"tienda":"Zerimar"}
+{"id":452,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":38,"tienda":"Supermaxi"}
+{"id":453,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.02,"cantidad":10,"tienda":"Supermaxi"}
+{"id":454,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.03,"cantidad":25,"tienda":"Gran Akí"}
+{"id":455,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.27,"cantidad":15,"tienda":"Zerimar"}
+{"id":456,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.1,"cantidad":11,"tienda":"Supermaxi"}
+{"id":457,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.13,"cantidad":27,"tienda":"Gran Akí"}
+{"id":458,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":17,"tienda":"Supermaxi"}
+{"id":459,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.82,"cantidad":20,"tienda":"Supermaxi"}
+{"id":460,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.16,"cantidad":11,"tienda":"Supermaxi"}
+{"id":461,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.9,"cantidad":24,"tienda":"Gran Akí"}
+{"id":462,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.76,"cantidad":16,"tienda":"Supermaxi"}
+{"id":463,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.51,"cantidad":16,"tienda":"Zerimar"}
+{"id":464,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.67,"cantidad":19,"tienda":"Gran Akí"}
+{"id":465,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":17,"tienda":"Supermaxi"}
+{"id":466,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.91,"cantidad":23,"tienda":"Gran Akí"}
+{"id":467,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.23,"cantidad":8,"tienda":"Supermaxi"}
+{"id":468,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.55,"cantidad":32,"tienda":"Supermaxi"}
+{"id":469,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.32,"cantidad":25,"tienda":"Gran Akí"}
+{"id":470,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.54,"cantidad":35,"tienda":"Supermaxi"}
+{"id":471,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.54,"cantidad":23,"tienda":"Gran Akí"}
+{"id":472,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.13,"cantidad":26,"tienda":"Gran Akí"}
+{"id":473,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.78,"cantidad":43,"tienda":"Supermaxi"}
+{"id":474,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.29,"cantidad":32,"tienda":"Zerimar"}
+{"id":475,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.66,"cantidad":28,"tienda":"Gran Akí"}
+{"id":476,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.99,"cantidad":10,"tienda":"Supermaxi"}
+{"id":477,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.63,"cantidad":22,"tienda":"Gran Akí"}
+{"id":478,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.37,"cantidad":11,"tienda":"Supermaxi"}
+{"id":479,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.32,"cantidad":15,"tienda":"Zerimar"}
+{"id":480,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":14,"tienda":"Supermaxi"}
+{"id":481,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.83,"cantidad":35,"tienda":"Supermaxi"}
+{"id":482,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.1,"cantidad":9,"tienda":"Supermaxi"}
+{"id":483,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.28,"cantidad":34,"tienda":"Zerimar"}
+{"id":484,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.27,"cantidad":23,"tienda":"Supermaxi"}
+{"id":485,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.4,"cantidad":32,"tienda":"Zerimar"}
+{"id":486,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.23,"cantidad":29,"tienda":"Supermaxi"}
+{"id":487,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":11,"tienda":"Supermaxi"}
+{"id":488,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.57,"cantidad":21,"tienda":"Gran Akí"}
+{"id":489,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.78,"cantidad":15,"tienda":"Supermaxi"}
+{"id":490,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.27,"cantidad":17,"tienda":"Zerimar"}
+{"id":491,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.26,"cantidad":29,"tienda":"Gran Akí"}
+{"id":492,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.49,"cantidad":31,"tienda":"Supermaxi"}
+{"id":493,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.52,"cantidad":25,"tienda":"Supermaxi"}
+{"id":494,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.78,"cantidad":47,"tienda":"Supermaxi"}
+{"id":495,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.56,"cantidad":33,"tienda":"Supermaxi"}
+{"id":496,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.6,"cantidad":43,"tienda":"Supermaxi"}
+{"id":497,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.24,"cantidad":9,"tienda":"Supermaxi"}
+{"id":498,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.8,"cantidad":43,"tienda":"Supermaxi"}
+{"id":499,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.22,"cantidad":8,"tienda":"Supermaxi"}
+{"id":500,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.56,"cantidad":20,"tienda":"Gran Akí"}
+{"id":501,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.6,"cantidad":16,"tienda":"Zerimar"}
+{"id":502,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.14,"cantidad":24,"tienda":"Gran Akí"}
+{"id":503,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.28,"cantidad":34,"tienda":"Zerimar"}
+{"id":504,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.89,"cantidad":15,"tienda":"Supermaxi"}
+{"id":505,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.08,"cantidad":12,"tienda":"Supermaxi"}
+{"id":506,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.08,"cantidad":11,"tienda":"Supermaxi"}
+{"id":507,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.13,"cantidad":13,"tienda":"Supermaxi"}
+{"id":508,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.92,"cantidad":20,"tienda":"Supermaxi"}
+{"id":509,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":18,"tienda":"Supermaxi"}
+{"id":510,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.33,"cantidad":31,"tienda":"Supermaxi"}
+{"id":511,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.16,"cantidad":8,"tienda":"Supermaxi"}
+{"id":512,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.81,"cantidad":17,"tienda":"Zerimar"}
+{"id":513,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.09,"cantidad":11,"tienda":"Supermaxi"}
+{"id":514,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.75,"cantidad":17,"tienda":"Supermaxi"}
+{"id":515,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.53,"cantidad":14,"tienda":"Zerimar"}
+{"id":516,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.73,"cantidad":38,"tienda":"Supermaxi"}
+{"id":517,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.61,"cantidad":41,"tienda":"Zerimar"}
+{"id":518,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.8,"cantidad":17,"tienda":"Zerimar"}
+{"id":519,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.32,"cantidad":30,"tienda":"Supermaxi"}
+{"id":520,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.01,"cantidad":22,"tienda":"Gran Akí"}
+{"id":521,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.88,"cantidad":20,"tienda":"Gran Akí"}
+{"id":522,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.29,"cantidad":22,"tienda":"Gran Akí"}
+{"id":523,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.36,"cantidad":20,"tienda":"Gran Akí"}
+{"id":524,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.94,"cantidad":21,"tienda":"Supermaxi"}
+{"id":525,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.19,"cantidad":27,"tienda":"Supermaxi"}
+{"id":526,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.72,"cantidad":23,"tienda":"Gran Akí"}
+{"id":527,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.41,"cantidad":23,"tienda":"Supermaxi"}
+{"id":528,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.42,"cantidad":22,"tienda":"Gran Akí"}
+{"id":529,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.71,"cantidad":19,"tienda":"Gran Akí"}
+{"id":530,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.28,"cantidad":20,"tienda":"Gran Akí"}
+{"id":531,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.05,"cantidad":36,"tienda":"Gran Akí"}
+{"id":532,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":18,"tienda":"Supermaxi"}
+{"id":533,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.54,"cantidad":32,"tienda":"Supermaxi"}
+{"id":534,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.9,"cantidad":21,"tienda":"Supermaxi"}
+{"id":535,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.6,"cantidad":19,"tienda":"Gran Akí"}
+{"id":536,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.76,"cantidad":23,"tienda":"Gran Akí"}
+{"id":537,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.55,"cantidad":22,"tienda":"Gran Akí"}
+{"id":538,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.37,"cantidad":23,"tienda":"Gran Akí"}
+{"id":539,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.45,"cantidad":23,"tienda":"Gran Akí"}
+{"id":540,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.74,"cantidad":18,"tienda":"Supermaxi"}
+{"id":541,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.78,"cantidad":28,"tienda":"Gran Akí"}
+{"id":542,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.31,"cantidad":26,"tienda":"Supermaxi"}
+{"id":543,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.71,"cantidad":41,"tienda":"Zerimar"}
+{"id":544,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.91,"cantidad":20,"tienda":"Supermaxi"}
+{"id":545,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.07,"cantidad":11,"tienda":"Supermaxi"}
+{"id":546,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.4,"cantidad":24,"tienda":"Gran Akí"}
+{"id":547,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.85,"cantidad":16,"tienda":"Supermaxi"}
+{"id":548,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.09,"cantidad":25,"tienda":"Gran Akí"}
+{"id":549,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.38,"cantidad":30,"tienda":"Zerimar"}
+{"id":550,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.91,"cantidad":18,"tienda":"Supermaxi"}
+{"id":551,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.31,"cantidad":20,"tienda":"Gran Akí"}
+{"id":552,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.66,"cantidad":32,"tienda":"Zerimar"}
+{"id":553,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.06,"cantidad":31,"tienda":"Gran Akí"}
+{"id":554,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.43,"cantidad":40,"tienda":"Zerimar"}
+{"id":555,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.16,"cantidad":8,"tienda":"Supermaxi"}
+{"id":556,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.31,"cantidad":29,"tienda":"Zerimar"}
+{"id":557,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1,"cantidad":12,"tienda":"Supermaxi"}
+{"id":558,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.76,"cantidad":33,"tienda":"Supermaxi"}
+{"id":559,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":17,"tienda":"Supermaxi"}
+{"id":560,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.56,"cantidad":14,"tienda":"Zerimar"}
+{"id":561,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.99,"cantidad":25,"tienda":"Gran Akí"}
+{"id":562,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.65,"cantidad":16,"tienda":"Zerimar"}
+{"id":563,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.37,"cantidad":34,"tienda":"Gran Akí"}
+{"id":564,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.21,"cantidad":32,"tienda":"Gran Akí"}
+{"id":565,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.23,"cantidad":25,"tienda":"Supermaxi"}
+{"id":566,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.29,"cantidad":14,"tienda":"Zerimar"}
+{"id":567,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.35,"cantidad":11,"tienda":"Supermaxi"}
+{"id":568,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.07,"cantidad":12,"tienda":"Supermaxi"}
+{"id":569,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.51,"cantidad":17,"tienda":"Zerimar"}
+{"id":570,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.54,"cantidad":21,"tienda":"Gran Akí"}
+{"id":571,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.25,"cantidad":12,"tienda":"Zerimar"}
+{"id":572,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.08,"cantidad":11,"tienda":"Supermaxi"}
+{"id":573,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.44,"cantidad":16,"tienda":"Zerimar"}
+{"id":574,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.35,"cantidad":31,"tienda":"Zerimar"}
+{"id":575,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.68,"cantidad":40,"tienda":"Zerimar"}
+{"id":576,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.14,"cantidad":8,"tienda":"Supermaxi"}
+{"id":577,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.58,"cantidad":40,"tienda":"Supermaxi"}
+{"id":578,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.22,"cantidad":32,"tienda":"Supermaxi"}
+{"id":579,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.8,"cantidad":20,"tienda":"Supermaxi"}
+{"id":580,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.48,"cantidad":18,"tienda":"Gran Akí"}
+{"id":581,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.27,"cantidad":31,"tienda":"Gran Akí"}
+{"id":582,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.3,"cantidad":27,"tienda":"Gran Akí"}
+{"id":583,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.6,"cantidad":40,"tienda":"Zerimar"}
+{"id":584,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.64,"cantidad":38,"tienda":"Supermaxi"}
+{"id":585,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.68,"cantidad":13,"tienda":"Zerimar"}
+{"id":586,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.3,"cantidad":35,"tienda":"Zerimar"}
+{"id":587,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.06,"cantidad":35,"tienda":"Gran Akí"}
+{"id":588,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.07,"cantidad":11,"tienda":"Supermaxi"}
+{"id":589,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.81,"cantidad":47,"tienda":"Supermaxi"}
+{"id":590,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.74,"cantidad":21,"tienda":"Gran Akí"}
+{"id":591,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.08,"cantidad":29,"tienda":"Gran Akí"}
+{"id":592,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.52,"cantidad":18,"tienda":"Gran Akí"}
+{"id":593,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.37,"cantidad":28,"tienda":"Supermaxi"}
+{"id":594,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.22,"cantidad":12,"tienda":"Supermaxi"}
+{"id":595,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.02,"cantidad":28,"tienda":"Gran Akí"}
+{"id":596,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.38,"cantidad":30,"tienda":"Zerimar"}
+{"id":597,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":43,"tienda":"Supermaxi"}
+{"id":598,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.58,"cantidad":17,"tienda":"Gran Akí"}
+{"id":599,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.39,"cantidad":17,"tienda":"Gran Akí"}
+{"id":600,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.64,"cantidad":43,"tienda":"Supermaxi"}
+{"id":601,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.05,"cantidad":13,"tienda":"Supermaxi"}
+{"id":602,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.98,"cantidad":11,"tienda":"Supermaxi"}
+{"id":603,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.88,"cantidad":15,"tienda":"Supermaxi"}
+{"id":604,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.01,"cantidad":28,"tienda":"Gran Akí"}
+{"id":605,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.58,"cantidad":26,"tienda":"Gran Akí"}
+{"id":606,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.24,"cantidad":29,"tienda":"Gran Akí"}
+{"id":607,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.1,"cantidad":8,"tienda":"Supermaxi"}
+{"id":608,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.68,"cantidad":14,"tienda":"Zerimar"}
+{"id":609,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.31,"cantidad":16,"tienda":"Gran Akí"}
+{"id":610,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.04,"cantidad":33,"tienda":"Gran Akí"}
+{"id":611,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.91,"cantidad":23,"tienda":"Gran Akí"}
+{"id":612,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.77,"cantidad":20,"tienda":"Supermaxi"}
+{"id":613,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.92,"cantidad":46,"tienda":"Supermaxi"}
+{"id":614,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.86,"cantidad":13,"tienda":"Zerimar"}
+{"id":615,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.11,"cantidad":11,"tienda":"Supermaxi"}
+{"id":616,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.25,"cantidad":11,"tienda":"Supermaxi"}
+{"id":617,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.86,"cantidad":13,"tienda":"Zerimar"}
+{"id":618,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.57,"cantidad":22,"tienda":"Gran Akí"}
+{"id":619,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.89,"cantidad":46,"tienda":"Supermaxi"}
+{"id":620,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.64,"cantidad":29,"tienda":"Zerimar"}
+{"id":621,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2,"cantidad":22,"tienda":"Gran Akí"}
+{"id":622,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.52,"cantidad":29,"tienda":"Zerimar"}
+{"id":623,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.32,"cantidad":32,"tienda":"Gran Akí"}
+{"id":624,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.13,"cantidad":11,"tienda":"Supermaxi"}
+{"id":625,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.56,"cantidad":25,"tienda":"Gran Akí"}
+{"id":626,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.71,"cantidad":38,"tienda":"Zerimar"}
+{"id":627,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.57,"cantidad":27,"tienda":"Gran Akí"}
+{"id":628,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.41,"cantidad":22,"tienda":"Gran Akí"}
+{"id":629,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.61,"cantidad":40,"tienda":"Zerimar"}
+{"id":630,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.48,"cantidad":30,"tienda":"Supermaxi"}
+{"id":631,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.42,"cantidad":15,"tienda":"Zerimar"}
+{"id":632,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.55,"cantidad":14,"tienda":"Zerimar"}
+{"id":633,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.25,"cantidad":10,"tienda":"Supermaxi"}
+{"id":634,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.95,"cantidad":15,"tienda":"Supermaxi"}
+{"id":635,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.6,"cantidad":31,"tienda":"Supermaxi"}
+{"id":636,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.34,"cantidad":40,"tienda":"Zerimar"}
+{"id":637,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.74,"cantidad":22,"tienda":"Gran Akí"}
+{"id":638,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.43,"cantidad":26,"tienda":"Supermaxi"}
+{"id":639,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.11,"cantidad":30,"tienda":"Gran Akí"}
+{"id":640,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.1,"cantidad":13,"tienda":"Supermaxi"}
+{"id":641,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.68,"cantidad":21,"tienda":"Gran Akí"}
+{"id":642,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.62,"cantidad":22,"tienda":"Gran Akí"}
+{"id":643,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.72,"cantidad":14,"tienda":"Zerimar"}
+{"id":644,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.56,"cantidad":45,"tienda":"Supermaxi"}
+{"id":645,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.43,"cantidad":11,"tienda":"Supermaxi"}
+{"id":646,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.08,"cantidad":11,"tienda":"Supermaxi"}
+{"id":647,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.32,"cantidad":30,"tienda":"Supermaxi"}
+{"id":648,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.26,"cantidad":10,"tienda":"Supermaxi"}
+{"id":649,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.09,"cantidad":14,"tienda":"Supermaxi"}
+{"id":650,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.33,"cantidad":18,"tienda":"Gran Akí"}
+{"id":651,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.17,"cantidad":14,"tienda":"Zerimar"}
+{"id":652,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.13,"cantidad":13,"tienda":"Supermaxi"}
+{"id":653,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.73,"cantidad":16,"tienda":"Supermaxi"}
+{"id":654,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.37,"cantidad":11,"tienda":"Supermaxi"}
+{"id":655,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.31,"cantidad":41,"tienda":"Zerimar"}
+{"id":656,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":18,"tienda":"Supermaxi"}
+{"id":657,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.15,"cantidad":10,"tienda":"Supermaxi"}
+{"id":658,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.23,"cantidad":26,"tienda":"Supermaxi"}
+{"id":659,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.6,"cantidad":24,"tienda":"Supermaxi"}
+{"id":660,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.8,"cantidad":20,"tienda":"Supermaxi"}
+{"id":661,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.6,"cantidad":14,"tienda":"Zerimar"}
+{"id":662,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.53,"cantidad":20,"tienda":"Gran Akí"}
+{"id":663,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.47,"cantidad":37,"tienda":"Zerimar"}
+{"id":664,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.55,"cantidad":19,"tienda":"Gran Akí"}
+{"id":665,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.47,"cantidad":16,"tienda":"Zerimar"}
+{"id":666,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.21,"cantidad":11,"tienda":"Supermaxi"}
+{"id":667,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.35,"cantidad":21,"tienda":"Gran Akí"}
+{"id":668,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.91,"cantidad":15,"tienda":"Supermaxi"}
+{"id":669,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.46,"cantidad":35,"tienda":"Zerimar"}
+{"id":670,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.36,"cantidad":18,"tienda":"Zerimar"}
+{"id":671,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":17,"tienda":"Supermaxi"}
+{"id":672,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.88,"cantidad":12,"tienda":"Supermaxi"}
+{"id":673,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.79,"cantidad":21,"tienda":"Supermaxi"}
+{"id":674,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.6,"cantidad":29,"tienda":"Zerimar"}
+{"id":675,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.07,"cantidad":22,"tienda":"Gran Akí"}
+{"id":676,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.88,"cantidad":11,"tienda":"Supermaxi"}
+{"id":677,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":9,"tienda":"Supermaxi"}
+{"id":678,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.71,"cantidad":47,"tienda":"Supermaxi"}
+{"id":679,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.14,"cantidad":29,"tienda":"Gran Akí"}
+{"id":680,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.83,"cantidad":14,"tienda":"Zerimar"}
+{"id":681,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.24,"cantidad":27,"tienda":"Gran Akí"}
+{"id":682,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.59,"cantidad":27,"tienda":"Supermaxi"}
+{"id":683,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.48,"cantidad":27,"tienda":"Supermaxi"}
+{"id":684,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.31,"cantidad":15,"tienda":"Zerimar"}
+{"id":685,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.02,"cantidad":35,"tienda":"Gran Akí"}
+{"id":686,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.64,"cantidad":44,"tienda":"Supermaxi"}
+{"id":687,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.06,"cantidad":12,"tienda":"Supermaxi"}
+{"id":688,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.15,"cantidad":28,"tienda":"Gran Akí"}
+{"id":689,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.45,"cantidad":22,"tienda":"Gran Akí"}
+{"id":690,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.47,"cantidad":25,"tienda":"Supermaxi"}
+{"id":691,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.47,"cantidad":17,"tienda":"Gran Akí"}
+{"id":692,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.23,"cantidad":27,"tienda":"Gran Akí"}
+{"id":693,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.57,"cantidad":17,"tienda":"Zerimar"}
+{"id":694,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.47,"cantidad":42,"tienda":"Zerimar"}
+{"id":695,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.29,"cantidad":31,"tienda":"Gran Akí"}
+{"id":696,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.33,"cantidad":23,"tienda":"Gran Akí"}
+{"id":697,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.21,"cantidad":10,"tienda":"Supermaxi"}
+{"id":698,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":18,"tienda":"Supermaxi"}
+{"id":699,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.06,"cantidad":24,"tienda":"Gran Akí"}
+{"id":700,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.19,"cantidad":28,"tienda":"Supermaxi"}
+{"id":701,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.38,"cantidad":25,"tienda":"Supermaxi"}
+{"id":702,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.17,"cantidad":11,"tienda":"Supermaxi"}
+{"id":703,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.95,"cantidad":41,"tienda":"Supermaxi"}
+{"id":704,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.44,"cantidad":13,"tienda":"Zerimar"}
+{"id":705,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.36,"cantidad":32,"tienda":"Supermaxi"}
+{"id":706,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.49,"cantidad":16,"tienda":"Gran Akí"}
+{"id":707,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.02,"cantidad":28,"tienda":"Gran Akí"}
+{"id":708,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.92,"cantidad":28,"tienda":"Gran Akí"}
+{"id":709,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.52,"cantidad":17,"tienda":"Gran Akí"}
+{"id":710,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.45,"cantidad":17,"tienda":"Gran Akí"}
+{"id":711,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.72,"cantidad":21,"tienda":"Gran Akí"}
+{"id":712,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.73,"cantidad":19,"tienda":"Supermaxi"}
+{"id":713,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.31,"cantidad":27,"tienda":"Supermaxi"}
+{"id":714,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.2,"cantidad":16,"tienda":"Zerimar"}
+{"id":715,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.76,"cantidad":15,"tienda":"Supermaxi"}
+{"id":716,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.86,"cantidad":14,"tienda":"Supermaxi"}
+{"id":717,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.61,"cantidad":23,"tienda":"Supermaxi"}
+{"id":718,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.38,"cantidad":16,"tienda":"Zerimar"}
+{"id":719,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.2,"cantidad":25,"tienda":"Supermaxi"}
+{"id":720,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.76,"cantidad":44,"tienda":"Supermaxi"}
+{"id":721,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.98,"cantidad":10,"tienda":"Supermaxi"}
+{"id":722,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.23,"cantidad":9,"tienda":"Supermaxi"}
+{"id":723,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":10,"tienda":"Supermaxi"}
+{"id":724,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.8,"cantidad":25,"tienda":"Gran Akí"}
+{"id":725,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.07,"cantidad":9,"tienda":"Supermaxi"}
+{"id":726,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.07,"cantidad":32,"tienda":"Gran Akí"}
+{"id":727,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.35,"cantidad":9,"tienda":"Supermaxi"}
+{"id":728,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.37,"cantidad":27,"tienda":"Supermaxi"}
+{"id":729,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.57,"cantidad":17,"tienda":"Gran Akí"}
+{"id":730,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.73,"cantidad":20,"tienda":"Supermaxi"}
+{"id":731,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.74,"cantidad":32,"tienda":"Supermaxi"}
+{"id":732,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.31,"cantidad":12,"tienda":"Supermaxi"}
+{"id":733,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.53,"cantidad":25,"tienda":"Gran Akí"}
+{"id":734,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.78,"cantidad":17,"tienda":"Supermaxi"}
+{"id":735,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":11,"tienda":"Supermaxi"}
+{"id":736,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.05,"cantidad":14,"tienda":"Supermaxi"}
+{"id":737,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.36,"cantidad":39,"tienda":"Zerimar"}
+{"id":738,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.57,"cantidad":33,"tienda":"Zerimar"}
+{"id":739,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.6,"cantidad":28,"tienda":"Supermaxi"}
+{"id":740,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":18,"tienda":"Supermaxi"}
+{"id":741,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.77,"cantidad":15,"tienda":"Supermaxi"}
+{"id":742,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.69,"cantidad":19,"tienda":"Gran Akí"}
+{"id":743,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":11,"tienda":"Supermaxi"}
+{"id":744,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.91,"cantidad":19,"tienda":"Supermaxi"}
+{"id":745,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.89,"cantidad":10,"tienda":"Supermaxi"}
+{"id":746,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.24,"cantidad":15,"tienda":"Zerimar"}
+{"id":747,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.32,"cantidad":36,"tienda":"Gran Akí"}
+{"id":748,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.97,"cantidad":21,"tienda":"Supermaxi"}
+{"id":749,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.66,"cantidad":35,"tienda":"Supermaxi"}
+{"id":750,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.59,"cantidad":13,"tienda":"Zerimar"}
+{"id":751,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.03,"cantidad":30,"tienda":"Gran Akí"}
+{"id":752,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.33,"cantidad":17,"tienda":"Zerimar"}
+{"id":753,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.8,"cantidad":20,"tienda":"Supermaxi"}
+{"id":754,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":9,"tienda":"Supermaxi"}
+{"id":755,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.37,"cantidad":30,"tienda":"Gran Akí"}
+{"id":756,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.92,"cantidad":10,"tienda":"Supermaxi"}
+{"id":757,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.85,"cantidad":17,"tienda":"Zerimar"}
+{"id":758,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.82,"cantidad":20,"tienda":"Supermaxi"}
+{"id":759,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.87,"cantidad":14,"tienda":"Zerimar"}
+{"id":760,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":18,"tienda":"Supermaxi"}
+{"id":761,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.74,"cantidad":19,"tienda":"Supermaxi"}
+{"id":762,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.48,"cantidad":28,"tienda":"Supermaxi"}
+{"id":763,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.62,"cantidad":20,"tienda":"Gran Akí"}
+{"id":764,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.64,"cantidad":32,"tienda":"Zerimar"}
+{"id":765,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.92,"cantidad":20,"tienda":"Supermaxi"}
+{"id":766,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.91,"cantidad":10,"tienda":"Supermaxi"}
+{"id":767,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":19,"tienda":"Supermaxi"}
+{"id":768,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.13,"cantidad":14,"tienda":"Supermaxi"}
+{"id":769,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.67,"cantidad":23,"tienda":"Gran Akí"}
+{"id":770,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.65,"cantidad":39,"tienda":"Zerimar"}
+{"id":771,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.78,"cantidad":17,"tienda":"Supermaxi"}
+{"id":772,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.81,"cantidad":45,"tienda":"Supermaxi"}
+{"id":773,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.46,"cantidad":12,"tienda":"Zerimar"}
+{"id":774,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.92,"cantidad":45,"tienda":"Supermaxi"}
+{"id":775,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.15,"cantidad":11,"tienda":"Supermaxi"}
+{"id":776,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.77,"cantidad":48,"tienda":"Supermaxi"}
+{"id":777,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.68,"cantidad":19,"tienda":"Gran Akí"}
+{"id":778,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.32,"cantidad":40,"tienda":"Zerimar"}
+{"id":779,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.65,"cantidad":22,"tienda":"Gran Akí"}
+{"id":780,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.22,"cantidad":16,"tienda":"Zerimar"}
+{"id":781,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.84,"cantidad":22,"tienda":"Gran Akí"}
+{"id":782,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.28,"cantidad":21,"tienda":"Gran Akí"}
+{"id":783,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.59,"cantidad":35,"tienda":"Supermaxi"}
+{"id":784,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.15,"cantidad":10,"tienda":"Supermaxi"}
+{"id":785,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.37,"cantidad":26,"tienda":"Gran Akí"}
+{"id":786,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.75,"cantidad":19,"tienda":"Supermaxi"}
+{"id":787,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.32,"cantidad":26,"tienda":"Supermaxi"}
+{"id":788,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.94,"cantidad":17,"tienda":"Supermaxi"}
+{"id":789,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.33,"cantidad":15,"tienda":"Zerimar"}
+{"id":790,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.2,"cantidad":34,"tienda":"Gran Akí"}
+{"id":791,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.28,"cantidad":42,"tienda":"Zerimar"}
+{"id":792,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.73,"cantidad":19,"tienda":"Supermaxi"}
+{"id":793,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.64,"cantidad":30,"tienda":"Zerimar"}
+{"id":794,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.99,"cantidad":12,"tienda":"Supermaxi"}
+{"id":795,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.63,"cantidad":48,"tienda":"Supermaxi"}
+{"id":796,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.98,"cantidad":41,"tienda":"Supermaxi"}
+{"id":797,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.67,"cantidad":15,"tienda":"Zerimar"}
+{"id":798,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.48,"cantidad":23,"tienda":"Gran Akí"}
+{"id":799,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":21,"tienda":"Supermaxi"}
+{"id":800,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.46,"cantidad":23,"tienda":"Gran Akí"}
+{"id":801,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.64,"cantidad":23,"tienda":"Gran Akí"}
+{"id":802,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.29,"cantidad":10,"tienda":"Supermaxi"}
+{"id":803,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1,"cantidad":12,"tienda":"Supermaxi"}
+{"id":804,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.54,"cantidad":28,"tienda":"Zerimar"}
+{"id":805,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.14,"cantidad":11,"tienda":"Supermaxi"}
+{"id":806,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.86,"cantidad":23,"tienda":"Gran Akí"}
+{"id":807,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.92,"cantidad":20,"tienda":"Supermaxi"}
+{"id":808,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.32,"cantidad":11,"tienda":"Supermaxi"}
+{"id":809,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.66,"cantidad":39,"tienda":"Zerimar"}
+{"id":810,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.21,"cantidad":33,"tienda":"Gran Akí"}
+{"id":811,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.35,"cantidad":20,"tienda":"Gran Akí"}
+{"id":812,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.68,"cantidad":36,"tienda":"Zerimar"}
+{"id":813,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.4,"cantidad":24,"tienda":"Supermaxi"}
+{"id":814,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.05,"cantidad":11,"tienda":"Supermaxi"}
+{"id":815,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.55,"cantidad":21,"tienda":"Gran Akí"}
+{"id":816,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.31,"cantidad":13,"tienda":"Zerimar"}
+{"id":817,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.8,"cantidad":26,"tienda":"Gran Akí"}
+{"id":818,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.27,"cantidad":32,"tienda":"Gran Akí"}
+{"id":819,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.74,"cantidad":16,"tienda":"Zerimar"}
+{"id":820,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.97,"cantidad":12,"tienda":"Supermaxi"}
+{"id":821,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.98,"cantidad":12,"tienda":"Supermaxi"}
+{"id":822,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.31,"cantidad":11,"tienda":"Supermaxi"}
+{"id":823,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.5,"cantidad":17,"tienda":"Gran Akí"}
+{"id":824,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.64,"cantidad":27,"tienda":"Gran Akí"}
+{"id":825,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.59,"cantidad":15,"tienda":"Zerimar"}
+{"id":826,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.42,"cantidad":11,"tienda":"Supermaxi"}
+{"id":827,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.09,"cantidad":35,"tienda":"Gran Akí"}
+{"id":828,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.7,"cantidad":24,"tienda":"Gran Akí"}
+{"id":829,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.95,"cantidad":20,"tienda":"Supermaxi"}
+{"id":830,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.53,"cantidad":22,"tienda":"Gran Akí"}
+{"id":831,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.4,"cantidad":23,"tienda":"Gran Akí"}
+{"id":832,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1,"cantidad":13,"tienda":"Supermaxi"}
+{"id":833,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.38,"cantidad":40,"tienda":"Zerimar"}
+{"id":834,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.82,"cantidad":39,"tienda":"Supermaxi"}
+{"id":835,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.67,"cantidad":32,"tienda":"Zerimar"}
+{"id":836,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.51,"cantidad":42,"tienda":"Zerimar"}
+{"id":837,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.87,"cantidad":13,"tienda":"Supermaxi"}
+{"id":838,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.79,"cantidad":36,"tienda":"Supermaxi"}
+{"id":839,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.26,"cantidad":31,"tienda":"Gran Akí"}
+{"id":840,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.43,"cantidad":9,"tienda":"Supermaxi"}
+{"id":841,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.45,"cantidad":32,"tienda":"Supermaxi"}
+{"id":842,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.51,"cantidad":31,"tienda":"Zerimar"}
+{"id":843,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.32,"cantidad":9,"tienda":"Supermaxi"}
+{"id":844,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.75,"cantidad":21,"tienda":"Supermaxi"}
+{"id":845,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.04,"cantidad":25,"tienda":"Gran Akí"}
+{"id":846,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.3,"cantidad":18,"tienda":"Gran Akí"}
+{"id":847,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.95,"cantidad":19,"tienda":"Supermaxi"}
+{"id":848,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.85,"cantidad":40,"tienda":"Supermaxi"}
+{"id":849,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.66,"cantidad":21,"tienda":"Gran Akí"}
+{"id":850,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.7,"cantidad":23,"tienda":"Gran Akí"}
+{"id":851,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":21,"tienda":"Supermaxi"}
+{"id":852,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.62,"cantidad":16,"tienda":"Zerimar"}
+{"id":853,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.56,"cantidad":34,"tienda":"Zerimar"}
+{"id":854,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.33,"cantidad":26,"tienda":"Gran Akí"}
+{"id":855,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.77,"cantidad":20,"tienda":"Supermaxi"}
+{"id":856,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.96,"cantidad":16,"tienda":"Supermaxi"}
+{"id":857,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.57,"cantidad":32,"tienda":"Zerimar"}
+{"id":858,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.1,"cantidad":33,"tienda":"Gran Akí"}
+{"id":859,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.51,"cantidad":15,"tienda":"Zerimar"}
+{"id":860,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.54,"cantidad":40,"tienda":"Supermaxi"}
+{"id":861,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.83,"cantidad":43,"tienda":"Supermaxi"}
+{"id":862,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.13,"cantidad":28,"tienda":"Gran Akí"}
+{"id":863,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.66,"cantidad":17,"tienda":"Gran Akí"}
+{"id":864,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.58,"cantidad":39,"tienda":"Zerimar"}
+{"id":865,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":9,"tienda":"Supermaxi"}
+{"id":866,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.82,"cantidad":22,"tienda":"Gran Akí"}
+{"id":867,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.87,"cantidad":42,"tienda":"Supermaxi"}
+{"id":868,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.24,"cantidad":8,"tienda":"Supermaxi"}
+{"id":869,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.45,"cantidad":38,"tienda":"Zerimar"}
+{"id":870,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.31,"cantidad":26,"tienda":"Gran Akí"}
+{"id":871,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.45,"cantidad":21,"tienda":"Gran Akí"}
+{"id":872,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.98,"cantidad":33,"tienda":"Supermaxi"}
+{"id":873,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.66,"cantidad":32,"tienda":"Supermaxi"}
+{"id":874,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.55,"cantidad":41,"tienda":"Zerimar"}
+{"id":875,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.29,"cantidad":16,"tienda":"Gran Akí"}
+{"id":876,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.29,"cantidad":32,"tienda":"Zerimar"}
+{"id":877,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.36,"cantidad":23,"tienda":"Supermaxi"}
+{"id":878,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.66,"cantidad":30,"tienda":"Zerimar"}
+{"id":879,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.14,"cantidad":35,"tienda":"Gran Akí"}
+{"id":880,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.35,"cantidad":17,"tienda":"Gran Akí"}
+{"id":881,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.38,"cantidad":34,"tienda":"Gran Akí"}
+{"id":882,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.64,"cantidad":29,"tienda":"Zerimar"}
+{"id":883,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.48,"cantidad":17,"tienda":"Zerimar"}
+{"id":884,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.98,"cantidad":14,"tienda":"Supermaxi"}
+{"id":885,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.31,"cantidad":35,"tienda":"Gran Akí"}
+{"id":886,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.93,"cantidad":29,"tienda":"Gran Akí"}
+{"id":887,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.02,"cantidad":27,"tienda":"Gran Akí"}
+{"id":888,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.69,"cantidad":16,"tienda":"Zerimar"}
+{"id":889,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1,"cantidad":11,"tienda":"Supermaxi"}
+{"id":890,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.65,"cantidad":29,"tienda":"Zerimar"}
+{"id":891,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.29,"cantidad":20,"tienda":"Gran Akí"}
+{"id":892,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.75,"cantidad":19,"tienda":"Supermaxi"}
+{"id":893,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.2,"cantidad":34,"tienda":"Gran Akí"}
+{"id":894,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.92,"cantidad":20,"tienda":"Supermaxi"}
+{"id":895,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.97,"cantidad":12,"tienda":"Supermaxi"}
+{"id":896,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.02,"cantidad":13,"tienda":"Supermaxi"}
+{"id":897,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":42,"tienda":"Supermaxi"}
+{"id":898,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.72,"cantidad":37,"tienda":"Zerimar"}
+{"id":899,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.61,"cantidad":32,"tienda":"Zerimar"}
+{"id":900,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.7,"cantidad":35,"tienda":"Supermaxi"}
+{"id":901,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.32,"cantidad":38,"tienda":"Zerimar"}
+{"id":902,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.59,"cantidad":20,"tienda":"Gran Akí"}
+{"id":903,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.8,"cantidad":45,"tienda":"Supermaxi"}
+{"id":904,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.03,"cantidad":12,"tienda":"Supermaxi"}
+{"id":905,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.54,"cantidad":22,"tienda":"Gran Akí"}
+{"id":906,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":2.04,"cantidad":21,"tienda":"Gran Akí"}
+{"id":907,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.63,"cantidad":12,"tienda":"Zerimar"}
+{"id":908,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":35,"tienda":"Supermaxi"}
+{"id":909,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.7,"cantidad":22,"tienda":"Gran Akí"}
+{"id":910,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.85,"cantidad":13,"tienda":"Supermaxi"}
+{"id":911,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.88,"cantidad":35,"tienda":"Supermaxi"}
+{"id":912,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.24,"cantidad":27,"tienda":"Gran Akí"}
+{"id":913,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.62,"cantidad":38,"tienda":"Zerimar"}
+{"id":914,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.62,"cantidad":22,"tienda":"Gran Akí"}
+{"id":915,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":10,"tienda":"Supermaxi"}
+{"id":916,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.4,"cantidad":15,"tienda":"Zerimar"}
+{"id":917,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":19,"tienda":"Supermaxi"}
+{"id":918,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.31,"cantidad":28,"tienda":"Gran Akí"}
+{"id":919,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.26,"cantidad":9,"tienda":"Supermaxi"}
+{"id":920,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.77,"cantidad":17,"tienda":"Zerimar"}
+{"id":921,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.28,"cantidad":13,"tienda":"Zerimar"}
+{"id":922,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.69,"cantidad":18,"tienda":"Gran Akí"}
+{"id":923,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.21,"cantidad":11,"tienda":"Supermaxi"}
+{"id":924,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.36,"cantidad":29,"tienda":"Gran Akí"}
+{"id":925,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.34,"cantidad":33,"tienda":"Zerimar"}
+{"id":926,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.39,"cantidad":16,"tienda":"Zerimar"}
+{"id":927,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.52,"cantidad":27,"tienda":"Supermaxi"}
+{"id":928,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.87,"cantidad":14,"tienda":"Zerimar"}
+{"id":929,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.75,"cantidad":18,"tienda":"Supermaxi"}
+{"id":930,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.47,"cantidad":25,"tienda":"Supermaxi"}
+{"id":931,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":2.01,"cantidad":47,"tienda":"Supermaxi"}
+{"id":932,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.24,"cantidad":32,"tienda":"Supermaxi"}
+{"id":933,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.7,"cantidad":22,"tienda":"Gran Akí"}
+{"id":934,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.11,"cantidad":12,"tienda":"Supermaxi"}
+{"id":935,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.36,"cantidad":32,"tienda":"Gran Akí"}
+{"id":936,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.62,"cantidad":21,"tienda":"Gran Akí"}
+{"id":937,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.71,"cantidad":35,"tienda":"Supermaxi"}
+{"id":938,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.58,"cantidad":21,"tienda":"Gran Akí"}
+{"id":939,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.68,"cantidad":22,"tienda":"Gran Akí"}
+{"id":940,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":24,"tienda":"Supermaxi"}
+{"id":941,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.38,"cantidad":20,"tienda":"Gran Akí"}
+{"id":942,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.52,"cantidad":24,"tienda":"Supermaxi"}
+{"id":943,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.2,"cantidad":35,"tienda":"Gran Akí"}
+{"id":944,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.11,"cantidad":11,"tienda":"Supermaxi"}
+{"id":945,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.15,"cantidad":17,"tienda":"Zerimar"}
+{"id":946,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.43,"cantidad":11,"tienda":"Supermaxi"}
+{"id":947,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.55,"cantidad":12,"tienda":"Zerimar"}
+{"id":948,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.38,"cantidad":35,"tienda":"Gran Akí"}
+{"id":949,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.06,"cantidad":29,"tienda":"Gran Akí"}
+{"id":950,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.39,"cantidad":19,"tienda":"Gran Akí"}
+{"id":951,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.09,"cantidad":9,"tienda":"Supermaxi"}
+{"id":952,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.1,"cantidad":9,"tienda":"Supermaxi"}
+{"id":953,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.18,"cantidad":9,"tienda":"Supermaxi"}
+{"id":954,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.59,"cantidad":22,"tienda":"Gran Akí"}
+{"id":955,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.09,"cantidad":11,"tienda":"Supermaxi"}
+{"id":956,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.6,"cantidad":24,"tienda":"Gran Akí"}
+{"id":957,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.82,"cantidad":20,"tienda":"Gran Akí"}
+{"id":958,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.87,"cantidad":20,"tienda":"Supermaxi"}
+{"id":959,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.71,"cantidad":46,"tienda":"Supermaxi"}
+{"id":960,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.54,"cantidad":22,"tienda":"Supermaxi"}
+{"id":961,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":2,"cantidad":36,"tienda":"Supermaxi"}
+{"id":962,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.1,"cantidad":27,"tienda":"Gran Akí"}
+{"id":963,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.37,"cantidad":11,"tienda":"Supermaxi"}
+{"id":964,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.44,"cantidad":14,"tienda":"Zerimar"}
+{"id":965,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.66,"cantidad":32,"tienda":"Supermaxi"}
+{"id":966,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.36,"cantidad":19,"tienda":"Gran Akí"}
+{"id":967,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.91,"cantidad":11,"tienda":"Supermaxi"}
+{"id":968,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.98,"cantidad":22,"tienda":"Gran Akí"}
+{"id":969,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.41,"cantidad":36,"tienda":"Zerimar"}
+{"id":970,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.39,"cantidad":22,"tienda":"Gran Akí"}
+{"id":971,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.12,"cantidad":11,"tienda":"Supermaxi"}
+{"id":972,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.43,"cantidad":12,"tienda":"Supermaxi"}
+{"id":973,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.5,"cantidad":33,"tienda":"Supermaxi"}
+{"id":974,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.46,"cantidad":30,"tienda":"Supermaxi"}
+{"id":975,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.53,"cantidad":30,"tienda":"Zerimar"}
+{"id":976,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.6,"cantidad":23,"tienda":"Supermaxi"}
+{"id":977,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.01,"cantidad":11,"tienda":"Supermaxi"}
+{"id":978,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.9,"cantidad":12,"tienda":"Supermaxi"}
+{"id":979,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.96,"cantidad":10,"tienda":"Supermaxi"}
+{"id":980,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.51,"cantidad":27,"tienda":"Supermaxi"}
+{"id":981,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.46,"cantidad":27,"tienda":"Supermaxi"}
+{"id":982,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.05,"cantidad":24,"tienda":"Gran Akí"}
+{"id":983,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":1.02,"cantidad":12,"tienda":"Supermaxi"}
+{"id":984,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.39,"cantidad":9,"tienda":"Supermaxi"}
+{"id":985,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.34,"cantidad":11,"tienda":"Supermaxi"}
+{"id":986,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.86,"cantidad":17,"tienda":"Supermaxi"}
+{"id":987,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.69,"cantidad":38,"tienda":"Supermaxi"}
+{"id":988,"producto":"Lechuga Crespa Fresca","categoria":"Verduras","precio":0.99,"cantidad":11,"tienda":"Supermaxi"}
+{"id":989,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.52,"cantidad":29,"tienda":"Supermaxi"}
+{"id":990,"producto":"Baby Tomate","categoria":"Hortalizas","precio":1.46,"cantidad":41,"tienda":"Zerimar"}
+{"id":991,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.14,"cantidad":29,"tienda":"Gran Akí"}
+{"id":992,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.26,"cantidad":25,"tienda":"Supermaxi"}
+{"id":993,"producto":"Plátano Verde Fresco","categoria":"Plátanos y bananos","precio":1.38,"cantidad":12,"tienda":"Supermaxi"}
+{"id":994,"producto":"Aguacate Fuerte","categoria":"Frutas","precio":1.47,"cantidad":23,"tienda":"Gran Akí"}
+{"id":995,"producto":"Baby Manzanas","categoria":"Frutas","precio":2.81,"cantidad":12,"tienda":"Zerimar"}
+{"id":996,"producto":"Tomate Riñón Fresco","categoria":"Hortalizas","precio":1.56,"cantidad":24,"tienda":"Supermaxi"}
+{"id":997,"producto":"Limón Mandarina","categoria":"Frutas","precio":1.16,"cantidad":34,"tienda":"Gran Akí"}
+{"id":998,"producto":"Cebolla Larga Fresca","categoria":"Verduras","precio":0.83,"cantidad":17,"tienda":"Supermaxi"}
+{"id":999,"producto":"Arvejas Frescas","categoria":"Legumbres","precio":1.61,"cantidad":35,"tienda":"Supermaxi"}
+{"id":1000,"producto":"Naranjilla Fresca","categoria":"Frutas","precio":1.96,"cantidad":22,"tienda":"Gran Akí"}
