@@ -3,7 +3,7 @@ import {openSync, closeSync, readSync, readFileSync} from 'node:fs';
 const SALTO_DE_LINEA = 0x0a;
 // Recorre el archivo en bytes y devuelve la posicion ,en bytes, donde empieza cada registro
 // Con bytes se evita el usar caracteres, que ocupa más bytes para la ñ y las tildes
-export function contruirIndice(ruta){
+export function construirIndice(ruta){
     const contenido = readFileSync(ruta);
     const posiciones = [];
     let inicio = 0; // Marca el byte donde empieza la línea actual, justo después del último salto
@@ -22,7 +22,7 @@ export function contruirIndice(ruta){
 
 // Abre el archivo, construye el índice y devuelve las funciones para que se pueda leer
 export function abrirArchivo(ruta){
-    const posiciones = contruirIndice(ruta);
+    const posiciones = construirIndice(ruta);
     const fd = openSync(ruta, 'r');
 
     // Lee el registro que empieza en bytes y lo devuelve como objeto
